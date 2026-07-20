@@ -1,0 +1,8 @@
+﻿{
+  "leetcode_session": "PASTE_YOUR_LEETCODE_SESSION_COOKIE_HERE",
+  "csrf_token": "PASTE_YOUR_CSRFTOKEN_COOKIE_HERE",
+  "output_dir": "problems",
+  "git_commit": true,
+  "accepted_only": true,
+  "delay_seconds": 0.8
+}

@@ -1,0 +1,19 @@
+﻿# Secrets & Config
+config.json
+
+# State files (tracks local synced IDs)
+.synced_submissions.json
+
+# Python virtual environment & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# IDE / System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
