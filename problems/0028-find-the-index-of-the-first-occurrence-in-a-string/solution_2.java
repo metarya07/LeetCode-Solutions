@@ -4,9 +4,9 @@
  * Solution #2 (Java)
  * Status: Accepted
  * Runtime: 1
- * Memory: 43028000
- * Submission Date: 2026-08-26 16:59:20 UTC
- * Submission ID: 2121064219
+ * Memory: 42948000
+ * Submission Date: 2026-08-26 16:55:57 UTC
+ * Submission ID: 2121060005
  */
 
 class Solution {
