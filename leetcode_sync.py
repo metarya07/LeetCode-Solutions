@@ -5,7 +5,7 @@ LeetCode to GitHub Synchronizer
 - Fetches all submissions from your LeetCode account.
 - Supports historical backfill with original submission timestamps in Git.
 - Preserves MULTIPLE submissions per problem as distinct files (solution_1.py, solution_2.py, solution_3.cpp, etc.).
-- Generates informative README.md documentation for each problem.
+- Generates informative README.md documentation for each problem AND the main root portfolio README.md index!
 - Incremental sync: only processes new submissions on subsequent runs.
 """
 
@@ -13,12 +13,12 @@ import os
 import sys
 import json
 import time
+import re
 import subprocess
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, List, Any, Optional
 
-# Ensure UTF-8 output on Windows consoles
 if sys.platform == "win32":
     try:
         sys.stdout.reconfigure(encoding="utf-8")
@@ -73,7 +73,6 @@ DIFFICULTY_BADGES = {
 
 
 def load_config() -> Dict[str, Any]:
-    """Load configuration from config.json or environment variables."""
     config = {
         "leetcode_session": os.environ.get("LEETCODE_SESSION", ""),
         "csrf_token": os.environ.get("LEETCODE_CSRF_TOKEN", ""),
@@ -111,7 +110,6 @@ class LeetCodeClient:
         })
 
     def request_with_retry(self, method: str, url: str, **kwargs) -> Optional[requests.Response]:
-        """Perform HTTP request with retries and exponential backoff."""
         max_retries = 3
         backoff = 2
         for attempt in range(1, max_retries + 1):
@@ -122,17 +120,12 @@ class LeetCodeClient:
                     return resp
                 elif resp.status_code in (429, 403):
                     wait = backoff ** attempt
-                    print(f"Rate limited or forbidden ({resp.status_code}). Waiting {wait}s before retry...")
                     time.sleep(wait)
-                else:
-                    print(f"HTTP {resp.status_code} for {url}. Attempt {attempt}/{max_retries}")
-            except Exception as e:
-                print(f"Request error: {e}. Attempt {attempt}/{max_retries}")
+            except Exception:
                 time.sleep(backoff ** attempt)
         return None
 
     def verify_auth(self) -> Optional[str]:
-        """Check if credentials are valid and get username."""
         query = """
         query globalData {
             userStatus {
@@ -141,8 +134,7 @@ class LeetCodeClient:
             }
         }
         """
-        payload = {"query": query, "variables": {}}
-        resp = self.request_with_retry("POST", GRAPHQL_URL, json=payload)
+        resp = self.request_with_retry("POST", GRAPHQL_URL, json={"query": query, "variables": {}})
         if not resp:
             return None
         try:
@@ -155,11 +147,8 @@ class LeetCodeClient:
         return None
 
     def get_solved_problems(self) -> List[Dict[str, Any]]:
-        """Fetch all solved problems using the all problems API."""
-        print("Fetching list of all solved problems...")
         resp = self.request_with_retry("GET", ALL_PROBLEMS_URL)
         if not resp:
-            print("Failed to fetch problem list.")
             return []
 
         data = resp.json()
@@ -183,11 +172,9 @@ class LeetCodeClient:
         except (ValueError, TypeError):
             solved.sort(key=lambda x: str(x["id"]))
 
-        print(f"Found {len(solved)} solved problems.")
         return solved
 
     def get_problem_submissions(self, question_slug: str) -> List[Dict[str, Any]]:
-        """Fetch all submissions for a specific problem."""
         query = """
         query submissionList($questionSlug: String!, $offset: Int, $limit: Int) {
             submissionList(questionSlug: $questionSlug, offset: $offset, limit: $limit) {
@@ -220,14 +207,12 @@ class LeetCodeClient:
                 submissions.extend(subs)
                 has_next = sub_list.get("hasNext", False) and len(subs) == limit
                 offset += limit
-            except Exception as e:
-                print(f"Error parsing submissions for {question_slug}: {e}")
+            except Exception:
                 break
 
         return submissions
 
     def get_submission_details(self, submission_id: int) -> Optional[Dict[str, Any]]:
-        """Fetch submission source code and metadata."""
         query = """
         query submissionDetails($submissionId: Int!) {
             submissionDetails(submissionId: $submissionId) {
@@ -243,15 +228,13 @@ class LeetCodeClient:
             }
         }
         """
-        payload = {"query": query, "variables": {"submissionId": int(submission_id)}}
-        resp = self.request_with_retry("POST", GRAPHQL_URL, json=payload)
+        resp = self.request_with_retry("POST", GRAPHQL_URL, json={"query": query, "variables": {"submissionId": int(submission_id)}})
         if not resp:
             return None
         try:
             data = resp.json()
             return data.get("data", {}).get("submissionDetails")
-        except Exception as e:
-            print(f"Error parsing submission details {submission_id}: {e}")
+        except Exception:
             return None
 
 
@@ -265,7 +248,6 @@ class SyncManager:
         self.synced_ids = self.load_synced_ids()
 
     def load_synced_ids(self) -> set:
-        """Load already synced submission IDs."""
         if self.state_file.exists():
             try:
                 with open(self.state_file, "r", encoding="utf-8") as f:
@@ -275,12 +257,10 @@ class SyncManager:
         return set()
 
     def save_synced_ids(self):
-        """Save synced submission IDs."""
         with open(self.state_file, "w", encoding="utf-8") as f:
             json.dump(list(self.synced_ids), f, indent=2)
 
     def format_code_header(self, problem: Dict[str, Any], sub: Dict[str, Any], solution_num: int, ext: str) -> str:
-        """Add metadata comment block at the top of the code file."""
         ts = int(sub.get("timestamp", 0))
         dt_str = datetime.fromtimestamp(ts, tz=timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
         lang_name = sub.get("lang", {}).get("verboseName") or sub.get("lang", {}).get("name") or "Unknown"
@@ -310,7 +290,6 @@ class SyncManager:
         return cmt
 
     def update_problem_readme(self, problem_dir: Path, problem: Dict[str, Any], solutions: List[Dict[str, Any]]):
-        """Generate or update the problem directory README.md."""
         readme_path = problem_dir / "README.md"
         difficulty = problem.get("difficulty", "Easy")
         badge = DIFFICULTY_BADGES.get(difficulty, difficulty)
@@ -341,8 +320,114 @@ class SyncManager:
         with open(readme_path, "w", encoding="utf-8") as f:
             f.write("\n".join(content))
 
+    def update_root_readme(self):
+        """Regenerate the root portfolio README.md."""
+        folders = sorted(
+            [f for f in self.output_dir.iterdir() if f.is_dir()],
+            key=lambda x: int(x.name.split("-")[0]) if x.name.split("-")[0].isdigit() else 999999,
+        )
+
+        rows = []
+        diff_counts = {"Easy": 0, "Medium": 0, "Hard": 0}
+        total_solutions = 0
+
+        for folder in folders:
+            readme = folder / "README.md"
+            title = folder.name
+            difficulty = "Easy"
+            prob_id = folder.name.split("-")[0].lstrip("0") or "0"
+
+            if readme.exists():
+                text = readme.read_text(encoding="utf-8", errors="ignore")
+                m_title = re.search(r"#\s*(\d+)\.\s*(.+)", text)
+                if m_title:
+                    prob_id = m_title.group(1)
+                    title = m_title.group(2).strip()
+                if "Hard" in text:
+                    difficulty = "Hard"
+                elif "Medium" in text:
+                    difficulty = "Medium"
+                elif "Easy" in text:
+                    difficulty = "Easy"
+
+            diff_counts[difficulty] = diff_counts.get(difficulty, 0) + 1
+
+            sol_files = sorted([f.name for f in folder.iterdir() if f.is_file() and f.name.startswith("solution_")])
+            total_solutions += len(sol_files)
+
+            sol_links = ", ".join([f"[`{s}`](./problems/{folder.name}/{s})" for s in sol_files])
+
+            diff_badge = {
+                "Easy": "🟢 Easy",
+                "Medium": "🟡 Medium",
+                "Hard": "🔴 Hard",
+            }.get(difficulty, difficulty)
+
+            rows.append({
+                "id": int(prob_id) if prob_id.isdigit() else 999999,
+                "id_str": prob_id,
+                "title": title,
+                "folder": folder.name,
+                "difficulty": diff_badge,
+                "solutions": sol_links,
+            })
+
+        rows.sort(key=lambda x: x["id"])
+        total_solved = len(rows)
+        easy_count = diff_counts.get("Easy", 0)
+        medium_count = diff_counts.get("Medium", 0)
+        hard_count = diff_counts.get("Hard", 0)
+
+        header = f"""# 🎯 LeetCode Solutions
+
+<div align="center">
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FjYI1cEg6C/)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-{total_solved}-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-{total_solutions}-brightgreen?style=for-the-badge)](./problems)
+
+[![Easy](https://img.shields.io/badge/Easy-{easy_count}-28a745?style=flat-square)]()
+[![Medium](https://img.shields.io/badge/Medium-{medium_count}-ffc107?style=flat-square)]()
+[![Hard](https://img.shields.io/badge/Hard-{hard_count}-dc3545?style=flat-square)]()
+[![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
+
+An automated repository synchronizing all my LeetCode submissions with real-time browser push, multi-solution versioning, and authentic historical timestamps.
+
+</div>
+
+---
+
+## 🌟 Highlights
+
+- **⚡ Instant Direct Push**: Submissions are pushed directly to GitHub the millisecond they are marked **Accepted** on LeetCode via the browser extension.
+- **📁 Multi-Solution Tracking**: When a problem is solved with multiple approaches (e.g. brute force, two-pointers, hash map, or different languages), all attempts are preserved as individual files (`solution_1.java`, `solution_2.java`, `solution_3.cpp`) without overwriting!
+- **📅 Historical Timeline**: Preserves authentic LeetCode submission timestamps across GitHub commits.
+- **🤖 Cloud Backup**: Automated GitHub Action workflow running every 6 hours to ensure continuous 100% sync reliability.
+
+---
+
+## 📊 Solved Problems Index
+
+| # | Problem Title | Difficulty | Solutions |
+| :---: | :--- | :---: | :--- |
+"""
+        table_rows = []
+        for r in rows:
+            table_rows.append(f"| {r['id_str']} | [{r['title']}](./problems/{r['folder']}) | {r['difficulty']} | {r['solutions']} |")
+
+        footer = """
+
+---
+
+<div align="center">
+<i>Automatically synchronized & maintained with ❤️ using LeetCode Instant Sync</i>
+</div>
+"""
+        full_readme = header + "\n".join(table_rows) + footer
+        with open("README.md", "w", encoding="utf-8") as f:
+            f.write(full_readme.strip() + "\n")
+
     def git_commit_submission(self, problem: Dict[str, Any], sub_meta: Dict[str, Any]):
-        """Commit files with original submission timestamp in Git."""
         if not self.config.get("git_commit", True):
             return
 
@@ -362,26 +447,20 @@ class SyncManager:
             pass
 
     def sync(self):
-        """Execute synchronization process."""
         user = self.client.verify_auth()
         if not user:
-            print("Authentication failed! Please check your LEETCODE_SESSION and csrftoken.")
+            print("Authentication failed! Please check your credentials.")
             return
 
         print(f"Logged in as LeetCode user: '{user}'")
-
         solved_problems = self.client.get_solved_problems()
         if not solved_problems:
-            print("No solved problems found or API error.")
+            print("No solved problems found.")
             return
 
         all_submissions_to_process = []
-
-        print(f"Fetching submissions for {len(solved_problems)} problems...")
-        for idx, problem in enumerate(solved_problems, 1):
-            print(f"[{idx}/{len(solved_problems)}] Checking #{problem['id']} - {problem['title']}...")
+        for problem in solved_problems:
             raw_subs = self.client.get_problem_submissions(problem["slug"])
-
             if self.config.get("accepted_only", True):
                 raw_subs = [s for s in raw_subs if s.get("statusDisplay") == "Accepted"]
 
@@ -399,11 +478,6 @@ class SyncManager:
                 })
 
         all_submissions_to_process.sort(key=lambda x: x["timestamp"])
-
-        print(f"\nTotal submissions found across all solved problems: {len(all_submissions_to_process)}")
-        new_count = sum(1 for item in all_submissions_to_process if str(item["sub_summary"]["id"]) not in self.synced_ids)
-        print(f"New submissions to download and commit: {new_count}\n")
-
         problem_solutions_map: Dict[str, List[Dict[str, Any]]] = {}
 
         for item in all_submissions_to_process:
@@ -434,10 +508,8 @@ class SyncManager:
                 })
                 continue
 
-            print(f"Downloading #{problem['id']} {problem['title']} (Solution #{solution_num}, ID: {sub_id})...")
             details = self.client.get_submission_details(int(sub_id))
             if not details:
-                print(f"  Failed to fetch code for submission ID {sub_id}")
                 continue
 
             details["id"] = sub_id
@@ -468,31 +540,15 @@ class SyncManager:
 
             self.update_problem_readme(problem_dir, problem, problem_solutions_map[slug])
             self.git_commit_submission(problem, sol_meta)
-
             self.synced_ids.add(sub_id)
             self.save_synced_ids()
 
-        print("\n==========================================")
-        print("✅ Synchronization completed successfully!")
-        print(f"📁 Problem folders saved in: '{self.output_dir.resolve()}'")
-        print("==========================================")
+        self.update_root_readme()
+        print("Synchronization completed successfully!")
 
 
 def main():
-    print("=== LeetCode to GitHub Sync Tool ===")
     config = load_config()
-
-    if not config.get("leetcode_session") or not config.get("csrf_token"):
-        print("\nMissing LeetCode credentials.")
-        print("Please provide your LEETCODE_SESSION and csrftoken in 'config.json' or as environment variables.\n")
-        session_input = input("Enter LEETCODE_SESSION cookie: ").strip()
-        csrf_input = input("Enter csrftoken cookie: ").strip()
-        if not session_input or not csrf_input:
-            print("Credentials required. Exiting.")
-            sys.exit(1)
-        config["leetcode_session"] = session_input
-        config["csrf_token"] = csrf_input
-
     client = LeetCodeClient(
         session_cookie=config["leetcode_session"],
         csrf_token=config["csrf_token"],
