@@ -4,7 +4,7 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FjYI1cEg6C/)
 [![Total Solved](https://img.shields.io/badge/Problems%20Solved-74-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-90-brightgreen?style=for-the-badge)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-91-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-36-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-27-ffc107?style=flat-square)]()
@@ -30,7 +30,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 
 | # | Problem Title | Difficulty | Solutions |
 | :---: | :--- | :---: | :--- |
-| 3720 | [Lexicographically Smallest Permutation Greater Than Target](./problems/3720-lexicographically-smallest-permutation-greater-than-target) | 🟡 Medium | [`solution_1.java`](./problems/3720-lexicographically-smallest-permutation-greater-than-target/solution_1.java) |
+| 3720 | [Lexicographically Smallest Permutation Greater Than Target](./problems/3720-lexicographically-smallest-permutation-greater-than-target) | 🟡 Medium | [`solution_1.java`](./problems/3720-lexicographically-smallest-permutation-greater-than-target/solution_1.java) |, [`solution_2.java`](./problems/3720-lexicographically-smallest-permutation-greater-than-target/solution_2.java) |
 | 1 | [Two Sum](./problems/0001-two-sum) | 🟢 Easy | [`solution_1.java`](./problems/0001-two-sum/solution_1.java) |
 | 9 | [Palindrome Number](./problems/0009-palindrome-number) | 🟢 Easy | [`solution_1.java`](./problems/0009-palindrome-number/solution_1.java) |
 | 13 | [Roman to Integer](./problems/0013-roman-to-integer) | 🟢 Easy | [`solution_1.java`](./problems/0013-roman-to-integer/solution_1.java) |
