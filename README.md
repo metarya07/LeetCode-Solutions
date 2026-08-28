@@ -4,7 +4,7 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FjYI1cEg6C/)
 [![Total Solved](https://img.shields.io/badge/Problems%20Solved-74-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-94-brightgreen?style=for-the-badge)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-95-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-36-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-27-ffc107?style=flat-square)]()
@@ -30,7 +30,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 
 | # | Problem Title | Difficulty | Solutions |
 | :---: | :--- | :---: | :--- |
-| 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) | 🔴 Hard | [`solution_1.java`](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution_1.java) |
+| 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) | 🔴 Hard | [`solution_1.java`](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution_1.java) |, [`solution_2.java`](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution_2.java) |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](./problems/3720-lexicographically-smallest-permutation-greater-than-target) | 🟡 Medium | [`solution_1.java`](./problems/3720-lexicographically-smallest-permutation-greater-than-target/solution_1.java) |, [`solution_2.java`](./problems/3720-lexicographically-smallest-permutation-greater-than-target/solution_2.java) |, [`solution_3.java`](./problems/3720-lexicographically-smallest-permutation-greater-than-target/solution_3.java) |
 | 1 | [Two Sum](./problems/0001-two-sum) | 🟢 Easy | [`solution_1.java`](./problems/0001-two-sum/solution_1.java) |, [`solution_2.java`](./problems/0001-two-sum/solution_2.java) |
 | 9 | [Palindrome Number](./problems/0009-palindrome-number) | 🟢 Easy | [`solution_1.java`](./problems/0009-palindrome-number/solution_1.java) |
