@@ -3,12 +3,12 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FjYI1cEg6C/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-74-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-96-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-76-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-97-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-36-28a745?style=flat-square)]()
-[![Medium](https://img.shields.io/badge/Medium-27-ffc107?style=flat-square)]()
-[![Hard](https://img.shields.io/badge/Hard-11-dc3545?style=flat-square)]()
+[![Medium](https://img.shields.io/badge/Medium-28-ffc107?style=flat-square)]()
+[![Hard](https://img.shields.io/badge/Hard-12-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
 An automated repository synchronizing all my LeetCode submissions with real-time browser push, multi-solution versioning, and authentic historical timestamps.
@@ -30,16 +30,14 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 
 | # | Problem Title | Difficulty | Solutions |
 | :---: | :--- | :---: | :--- |
-| 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) | 🔴 Hard | [`solution_1.java`](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution_1.java) |, [`solution_2.java`](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution_2.java) |, [`solution_3.java`](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution_3.java) |
-| 3720 | [Lexicographically Smallest Permutation Greater Than Target](./problems/3720-lexicographically-smallest-permutation-greater-than-target) | 🟡 Medium | [`solution_1.java`](./problems/3720-lexicographically-smallest-permutation-greater-than-target/solution_1.java) |, [`solution_2.java`](./problems/3720-lexicographically-smallest-permutation-greater-than-target/solution_2.java) |, [`solution_3.java`](./problems/3720-lexicographically-smallest-permutation-greater-than-target/solution_3.java) |
-| 1 | [Two Sum](./problems/0001-two-sum) | 🟢 Easy | [`solution_1.java`](./problems/0001-two-sum/solution_1.java) |, [`solution_2.java`](./problems/0001-two-sum/solution_2.java) |
+| 1 | [Two Sum](./problems/0001-two-sum) | 🟢 Easy | [`solution_1.java`](./problems/0001-two-sum/solution_1.java), [`solution_2.java`](./problems/0001-two-sum/solution_2.java) |
 | 9 | [Palindrome Number](./problems/0009-palindrome-number) | 🟢 Easy | [`solution_1.java`](./problems/0009-palindrome-number/solution_1.java) |
 | 13 | [Roman to Integer](./problems/0013-roman-to-integer) | 🟢 Easy | [`solution_1.java`](./problems/0013-roman-to-integer/solution_1.java) |
 | 14 | [Longest Common Prefix](./problems/0014-longest-common-prefix) | 🟢 Easy | [`solution_1.java`](./problems/0014-longest-common-prefix/solution_1.java) |
 | 20 | [Valid Parentheses](./problems/0020-valid-parentheses) | 🟢 Easy | [`solution_1.java`](./problems/0020-valid-parentheses/solution_1.java) |
 | 26 | [Remove Duplicates from Sorted Array](./problems/0026-remove-duplicates-from-sorted-array) | 🟢 Easy | [`solution_1.java`](./problems/0026-remove-duplicates-from-sorted-array/solution_1.java) |
 | 27 | [Remove Element](./problems/0027-remove-element) | 🟢 Easy | [`solution_1.java`](./problems/0027-remove-element/solution_1.java) |
-| 28 | [Find the Index of the First Occurrence in a String](./problems/0028-find-the-index-of-the-first-occurrence-in-a-string) | 🟢 Easy | [`solution_1.java`](./problems/0028-find-the-index-of-the-first-occurrence-in-a-string/solution_1.java), [`solution_2.java`](./problems/0028-find-the-index-of-the-first-occurrence-in-a-string/solution_2.java) |
+| 28 | [Find the Index of the First Occurrence in a String](./problems/0028-find-the-index-of-the-first-occurrence-in-a-string) | 🟢 Easy | [`solution_1.java`](./problems/0028-find-the-index-of-the-first-occurrence-in-a-string/solution_1.java), [`solution_2.java`](./problems/0028-find-the-index-of-the-first-occurrence-in-a-string/solution_2.java), [`solution_3.java`](./problems/0028-find-the-index-of-the-first-occurrence-in-a-string/solution_3.java) |
 | 42 | [Trapping Rain Water](./problems/0042-trapping-rain-water) | 🔴 Hard | [`solution_1.java`](./problems/0042-trapping-rain-water/solution_1.java) |
 | 49 | [Group Anagrams](./problems/0049-group-anagrams) | 🟡 Medium | [`solution_1.java`](./problems/0049-group-anagrams/solution_1.java) |
 | 54 | [Spiral Matrix](./problems/0054-spiral-matrix) | 🟡 Medium | [`solution_1.java`](./problems/0054-spiral-matrix/solution_1.java) |
@@ -101,7 +99,9 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 3622 | [Check Divisibility by Digit Sum and Product](./problems/3622-check-divisibility-by-digit-sum-and-product) | 🟢 Easy | [`solution_1.java`](./problems/3622-check-divisibility-by-digit-sum-and-product/solution_1.java) |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./problems/3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 Medium | [`solution_1.java`](./problems/3702-longest-subsequence-with-non-zero-bitwise-xor/solution_1.java) |
 | 3718 | [Smallest Missing Multiple of K](./problems/3718-smallest-missing-multiple-of-k) | 🟢 Easy | [`solution_1.java`](./problems/3718-smallest-missing-multiple-of-k/solution_1.java), [`solution_2.java`](./problems/3718-smallest-missing-multiple-of-k/solution_2.java) |
+| 3720 | [Lexicographically Smallest Permutation Greater Than Target](./problems/3720-lexicographically-smallest-permutation-greater-than-target) | 🟡 Medium | [`solution_1.java`](./problems/3720-lexicographically-smallest-permutation-greater-than-target/solution_1.java), [`solution_2.java`](./problems/3720-lexicographically-smallest-permutation-greater-than-target/solution_2.java), [`solution_3.java`](./problems/3720-lexicographically-smallest-permutation-greater-than-target/solution_3.java) |
 | 3731 | [Find Missing Elements](./problems/3731-find-missing-elements) | 🟢 Easy | [`solution_1.java`](./problems/3731-find-missing-elements/solution_1.java) |
+| 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) | 🔴 Hard | [`solution_1.java`](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution_1.java), [`solution_2.java`](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution_2.java), [`solution_3.java`](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution_3.java) |
 | 4014 | [Minimum Total Price After Applying Discounts](./problems/4014-minimum-total-price-after-applying-discounts) | 🟡 Medium | [`solution_1.java`](./problems/4014-minimum-total-price-after-applying-discounts/solution_1.java) |
 | 4015 | [Weighted Sum of a Tree](./problems/4015-weighted-sum-of-a-tree) | 🟡 Medium | [`solution_1.java`](./problems/4015-weighted-sum-of-a-tree/solution_1.java) |
 | 4016 | [Maximum Area of Two Non-Overlapping Square Submatrices](./problems/4016-maximum-area-of-two-non-overlapping-square-submatrices) | 🟡 Medium | [`solution_1.java`](./problems/4016-maximum-area-of-two-non-overlapping-square-submatrices/solution_1.java) |
