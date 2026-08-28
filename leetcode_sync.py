@@ -5,7 +5,7 @@ LeetCode to GitHub Synchronizer
 - Fetches all submissions from your LeetCode account.
 - Supports historical backfill with original submission timestamps in Git.
 - Preserves MULTIPLE submissions per problem as distinct files (solution_1.py, solution_2.py, solution_3.cpp, etc.).
-- Generates informative README.md documentation for each problem AND the main root portfolio README.md index!
+- Generates informative README.md documentation for each problem AND the main root portfolio README.md index with numeric auto-sorting!
 - Incremental sync: only processes new submissions on subsequent runs.
 """
 
@@ -228,7 +228,7 @@ class LeetCodeClient:
             }
         }
         """
-        resp = self.request_with_retry("POST", GRAPHQL_URL, json={"query": query, "variables": {"submissionId": int(submission_id)}})
+        resp = self.request_with_retry("POST", GRAPHQL_URL, json={"query": query, "variables": {"submissionId": int(submissionId)}})
         if not resp:
             return None
         try:
@@ -321,7 +321,7 @@ class SyncManager:
             f.write("\n".join(content))
 
     def update_root_readme(self):
-        """Regenerate the root portfolio README.md."""
+        """Regenerate root portfolio README.md with strict numeric sorting."""
         folders = sorted(
             [f for f in self.output_dir.iterdir() if f.is_dir()],
             key=lambda x: int(x.name.split("-")[0]) if x.name.split("-")[0].isdigit() else 999999,
@@ -352,7 +352,13 @@ class SyncManager:
 
             diff_counts[difficulty] = diff_counts.get(difficulty, 0) + 1
 
-            sol_files = sorted([f.name for f in folder.iterdir() if f.is_file() and f.name.startswith("solution_")])
+            # Natural numeric sort for solution files: solution_1, solution_2, solution_3...
+            sol_files = [f.name for f in folder.iterdir() if f.is_file() and f.name.startswith("solution_")]
+            def sol_sort_key(s):
+                m = re.search(r"solution_(\d+)", s)
+                return int(m.group(1)) if m else 0
+            sol_files.sort(key=sol_sort_key)
+
             total_solutions += len(sol_files)
 
             sol_links = ", ".join([f"[`{s}`](./problems/{folder.name}/{s})" for s in sol_files])
@@ -372,6 +378,7 @@ class SyncManager:
                 "solutions": sol_links,
             })
 
+        # Strict ascending numeric sort
         rows.sort(key=lambda x: x["id"])
         total_solved = len(rows)
         easy_count = diff_counts.get("Easy", 0)
