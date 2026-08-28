@@ -9,3 +9,4 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [`solution_1.java`](./solution_1.java) | Java | 6 | 47536000 | 2026-08-28 03:38 |
 | 2 | [`solution_2.java`](./solution_2.java) | Java | 4 | 46648000 | 2026-08-28 03:39 |
+| 3 | [`solution_3.java`](./solution_3.java) | Java | 5 | 46568000 | 2026-08-28 03:40 |
