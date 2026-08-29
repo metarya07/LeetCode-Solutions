@@ -4,7 +4,7 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FjYI1cEg6C/)
 [![Total Solved](https://img.shields.io/badge/Problems%20Solved-76-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-98-brightgreen?style=for-the-badge)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-99-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-36-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-28-ffc107?style=flat-square)]()
@@ -30,7 +30,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 
 | # | Problem Title | Difficulty | Solutions |
 | :---: | :--- | :---: | :--- |
-| 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements) | 🟡 Medium | [`solution_1.java`](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements/solution_1.java) |
+| 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements) | 🟡 Medium | [`solution_1.java`](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements/solution_1.java) |, [`solution_2.java`](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements/solution_2.java) |
 | 1 | [Two Sum](./problems/0001-two-sum) | 🟢 Easy | [`solution_1.java`](./problems/0001-two-sum/solution_1.java), [`solution_2.java`](./problems/0001-two-sum/solution_2.java) |
 | 9 | [Palindrome Number](./problems/0009-palindrome-number) | 🟢 Easy | [`solution_1.java`](./problems/0009-palindrome-number/solution_1.java) |
 | 13 | [Roman to Integer](./problems/0013-roman-to-integer) | 🟢 Easy | [`solution_1.java`](./problems/0013-roman-to-integer/solution_1.java) |
