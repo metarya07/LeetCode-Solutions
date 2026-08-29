@@ -3,11 +3,11 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FjYI1cEg6C/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-76-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-77-blue?style=for-the-badge&logo=codeforces)](./problems)
 [![Total Submissions](https://img.shields.io/badge/Total%20Solutions-99-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-36-28a745?style=flat-square)]()
-[![Medium](https://img.shields.io/badge/Medium-28-ffc107?style=flat-square)]()
+[![Medium](https://img.shields.io/badge/Medium-29-ffc107?style=flat-square)]()
 [![Hard](https://img.shields.io/badge/Hard-12-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
@@ -30,7 +30,6 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 
 | # | Problem Title | Difficulty | Solutions |
 | :---: | :--- | :---: | :--- |
-| 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements) | 🟡 Medium | [`solution_1.java`](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements/solution_1.java) |, [`solution_2.java`](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements/solution_2.java) |
 | 1 | [Two Sum](./problems/0001-two-sum) | 🟢 Easy | [`solution_1.java`](./problems/0001-two-sum/solution_1.java), [`solution_2.java`](./problems/0001-two-sum/solution_2.java) |
 | 9 | [Palindrome Number](./problems/0009-palindrome-number) | 🟢 Easy | [`solution_1.java`](./problems/0009-palindrome-number/solution_1.java) |
 | 13 | [Roman to Integer](./problems/0013-roman-to-integer) | 🟢 Easy | [`solution_1.java`](./problems/0013-roman-to-integer/solution_1.java) |
@@ -83,6 +82,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 2073 | [Time Needed to Buy Tickets](./problems/2073-time-needed-to-buy-tickets) | 🟢 Easy | [`solution_1.java`](./problems/2073-time-needed-to-buy-tickets/solution_1.java) |
 | 2213 | [Longest Substring of One Repeating Character](./problems/2213-longest-substring-of-one-repeating-character) | 🔴 Hard | [`solution_1.java`](./problems/2213-longest-substring-of-one-repeating-character/solution_1.java) |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string) | 🟡 Medium | [`solution_1.java`](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string/solution_1.java), [`solution_2.java`](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string/solution_2.java) |
+| 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements) | 🟡 Medium | [`solution_1.java`](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements/solution_1.java), [`solution_2.java`](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements/solution_2.java) |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./problems/2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 Medium | [`solution_1.java`](./problems/2958-length-of-longest-subarray-with-at-most-k-frequency/solution_1.java), [`solution_2.java`](./problems/2958-length-of-longest-subarray-with-at-most-k-frequency/solution_2.java) |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./problems/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) | 🟢 Easy | [`solution_1.java`](./problems/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/solution_1.java) |
 | 3014 | [Minimum Number of Pushes to Type Word I](./problems/3014-minimum-number-of-pushes-to-type-word-i) | 🟢 Easy | [`solution_1.java`](./problems/3014-minimum-number-of-pushes-to-type-word-i/solution_1.java) |
