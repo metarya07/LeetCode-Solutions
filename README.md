@@ -3,11 +3,11 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FjYI1cEg6C/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-79-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-103-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-80-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-104-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-36-28a745?style=flat-square)]()
-[![Medium](https://img.shields.io/badge/Medium-31-ffc107?style=flat-square)]()
+[![Medium](https://img.shields.io/badge/Medium-32-ffc107?style=flat-square)]()
 [![Hard](https://img.shields.io/badge/Hard-12-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
@@ -99,6 +99,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 3471 | [Find the Largest Almost Missing Integer](./problems/3471-find-the-largest-almost-missing-integer) | 🟢 Easy | [`solution_1.java`](./problems/3471-find-the-largest-almost-missing-integer/solution_1.java) |
 | 3517 | [Smallest Palindromic Rearrangement I](./problems/3517-smallest-palindromic-rearrangement-i) | 🟡 Medium | [`solution_1.java`](./problems/3517-smallest-palindromic-rearrangement-i/solution_1.java) |
 | 3518 | [Smallest Palindromic Rearrangement II](./problems/3518-smallest-palindromic-rearrangement-ii) | 🔴 Hard | [`solution_1.java`](./problems/3518-smallest-palindromic-rearrangement-ii/solution_1.java) |
+| 3568 | [Minimum Moves to Clean the Classroom](./problems/3568-minimum-moves-to-clean-the-classroom) | 🟡 Medium | [`solution_1.java`](./problems/3568-minimum-moves-to-clean-the-classroom/solution_1.java) |
 | 3622 | [Check Divisibility by Digit Sum and Product](./problems/3622-check-divisibility-by-digit-sum-and-product) | 🟢 Easy | [`solution_1.java`](./problems/3622-check-divisibility-by-digit-sum-and-product/solution_1.java) |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./problems/3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 Medium | [`solution_1.java`](./problems/3702-longest-subsequence-with-non-zero-bitwise-xor/solution_1.java) |
 | 3718 | [Smallest Missing Multiple of K](./problems/3718-smallest-missing-multiple-of-k) | 🟢 Easy | [`solution_1.java`](./problems/3718-smallest-missing-multiple-of-k/solution_1.java), [`solution_2.java`](./problems/3718-smallest-missing-multiple-of-k/solution_2.java) |
