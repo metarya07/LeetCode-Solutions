@@ -3,9 +3,9 @@
  * URL: https://leetcode.com/problems/construct-uniform-parity-array-i/
  * Solution #2 (Java)
  * Status: Accepted
- * Runtime: N/A
+ * Runtime: 0
  * Memory: 45004000
- * Submission Date: 2026-09-02 06:13:42 UTC
+ * Submission Date: 2026-09-02 06:13:32 UTC
  * Submission ID: 2128070571
  */
 
