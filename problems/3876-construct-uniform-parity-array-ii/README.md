@@ -10,3 +10,4 @@
 | 1 | [`solution_1.java`](./solution_1.java) | Java | 8 | 121572000 | 2026-09-03 01:29 |
 | 2 | [`solution_2.java`](./solution_2.java) | Java | 2 | 121712000 | 2026-09-03 01:29 |
 | 3 | [`solution_3.java`](./solution_3.java) | Java | 2 | 121896000 | 2026-09-03 01:33 |
+| 4 | [`solution_4.java`](./solution_4.java) | Java | 2 | 121692000 | 2026-09-03 01:40 |
