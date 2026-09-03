@@ -3,28 +3,24 @@
  * URL: https://leetcode.com/problems/construct-uniform-parity-array-ii/
  * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 2
- * Memory: 121896000
- * Submission Date: 2026-09-03 01:36:23 UTC
- * Submission ID: 2129053346
+ * Runtime: 8
+ * Memory: 121572000
+ * Submission Date: 2026-09-03 01:29:27 UTC
+ * Submission ID: 2129051578
  */
 
 class Solution {
-    public boolean uniformArray(int[] nums1) {
-        int min=Integer.MAX_VALUE;
-        for(int num:nums1){
-            min=Math.min(min,num);
+    public boolean uniformArray(int[] nums) {
+        int smallestOdd = Integer.MAX_VALUE;
+        for (int num : nums) {
+            if (num % 2 == 1)
+                smallestOdd = Math.min(smallestOdd, num);
         }
-
-        //minimum is odd->always possible
-        if(min%2==1){
+        if (smallestOdd == Integer.MAX_VALUE)
             return true;
-        }
-        //minimum is even -> all elements must be even 
-        for(int num:nums1){
-            if(num%2==1){
+        for (int num : nums) {
+            if (num % 2 == 0 && num <= smallestOdd)
                 return false;
-            }
         }
         return true;
     }
