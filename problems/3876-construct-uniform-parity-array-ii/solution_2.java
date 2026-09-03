@@ -4,9 +4,9 @@
  * Solution #2 (Java)
  * Status: Accepted
  * Runtime: 2
- * Memory: 121832000
- * Submission Date: 2026-09-03 01:43:39 UTC
- * Submission ID: 2129057348
+ * Memory: 121712000
+ * Submission Date: 2026-09-03 01:29:56 UTC
+ * Submission ID: 2129051759
  */
 
 class Solution {
@@ -27,6 +27,5 @@ class Solution {
             }
         }
         return true;
-        //hello trying
     }
 }
