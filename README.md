@@ -4,7 +4,7 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FjYI1cEg6C/)
 [![Total Solved](https://img.shields.io/badge/Problems%20Solved-82-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-108-brightgreen?style=for-the-badge)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-109-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-37-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-33-ffc107?style=flat-square)]()
@@ -107,7 +107,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 3731 | [Find Missing Elements](./problems/3731-find-missing-elements) | 🟢 Easy | [`solution_1.java`](./problems/3731-find-missing-elements/solution_1.java) |
 | 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) | 🔴 Hard | [`solution_1.java`](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution_1.java), [`solution_2.java`](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution_2.java), [`solution_3.java`](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution_3.java) |
 | 3875 | [Construct Uniform Parity Array I](./problems/3875-construct-uniform-parity-array-i) | 🟢 Easy | [`solution_1.java`](./problems/3875-construct-uniform-parity-array-i/solution_1.java), [`solution_2.java`](./problems/3875-construct-uniform-parity-array-i/solution_2.java) |
-| 3876 | [Construct Uniform Parity Array II](./problems/3876-construct-uniform-parity-array-ii) | 🟡 Medium | [`solution_1.java`](./problems/3876-construct-uniform-parity-array-ii/solution_1.java), [`solution_2.java`](./problems/3876-construct-uniform-parity-array-ii/solution_2.java) |
+| 3876 | [Construct Uniform Parity Array II](./problems/3876-construct-uniform-parity-array-ii) | 🟡 Medium | [`solution_1.java`](./problems/3876-construct-uniform-parity-array-ii/solution_1.java), [`solution_2.java`](./problems/3876-construct-uniform-parity-array-ii/solution_2.java), [`solution_3.java`](./problems/3876-construct-uniform-parity-array-ii/solution_3.java) |
 | 4014 | [Minimum Total Price After Applying Discounts](./problems/4014-minimum-total-price-after-applying-discounts) | 🟡 Medium | [`solution_1.java`](./problems/4014-minimum-total-price-after-applying-discounts/solution_1.java) |
 | 4015 | [Weighted Sum of a Tree](./problems/4015-weighted-sum-of-a-tree) | 🟡 Medium | [`solution_1.java`](./problems/4015-weighted-sum-of-a-tree/solution_1.java) |
 | 4016 | [Maximum Area of Two Non-Overlapping Square Submatrices](./problems/4016-maximum-area-of-two-non-overlapping-square-submatrices) | 🟡 Medium | [`solution_1.java`](./problems/4016-maximum-area-of-two-non-overlapping-square-submatrices/solution_1.java) |
