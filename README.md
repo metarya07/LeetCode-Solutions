@@ -43,7 +43,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 54 | [Spiral Matrix](./problems/0054-spiral-matrix) | 🟡 Medium | [`solution_1.java`](./problems/0054-spiral-matrix/solution_1.java) |
 | 84 | [Largest Rectangle in Histogram](./problems/0084-largest-rectangle-in-histogram) | 🔴 Hard | [`solution_1.java`](./problems/0084-largest-rectangle-in-histogram/solution_1.java) |
 | 88 | [Merge Sorted Array](./problems/0088-merge-sorted-array) | 🟢 Easy | [`solution_1.java`](./problems/0088-merge-sorted-array/solution_1.java) |
-| 115 | [Distinct Subsequences](./problems/0115-distinct-subsequences) | 🔴 Hard | [`solution_1.java`](./problems/0115-distinct-subsequences/solution_1.java) |
+| 115 | [Distinct Subsequences](./problems/0115-distinct-subsequences) | 🔴 Hard | [`solution_2.java`](./problems/0115-distinct-subsequences/solution_2.java) |
 | 121 | [Best Time to Buy and Sell Stock](./problems/0121-best-time-to-buy-and-sell-stock) | 🟢 Easy | [`solution_1.java`](./problems/0121-best-time-to-buy-and-sell-stock/solution_1.java) |
 | 128 | [Longest Consecutive Sequence](./problems/0128-longest-consecutive-sequence) | 🟡 Medium | [`solution_1.java`](./problems/0128-longest-consecutive-sequence/solution_1.java) |
 | 150 | [Evaluate Reverse Polish Notation](./problems/0150-evaluate-reverse-polish-notation) | 🟡 Medium | [`solution_1.java`](./problems/0150-evaluate-reverse-polish-notation/solution_1.java) |
