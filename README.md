@@ -3,12 +3,12 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FjYI1cEg6C/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-84-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-111-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-85-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-112-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-38-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-34-ffc107?style=flat-square)]()
-[![Hard](https://img.shields.io/badge/Hard-12-dc3545?style=flat-square)]()
+[![Hard](https://img.shields.io/badge/Hard-13-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
 An automated repository synchronizing all my LeetCode submissions with real-time browser push, multi-solution versioning, and authentic historical timestamps.
@@ -43,6 +43,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 54 | [Spiral Matrix](./problems/0054-spiral-matrix) | 🟡 Medium | [`solution_1.java`](./problems/0054-spiral-matrix/solution_1.java) |
 | 84 | [Largest Rectangle in Histogram](./problems/0084-largest-rectangle-in-histogram) | 🔴 Hard | [`solution_1.java`](./problems/0084-largest-rectangle-in-histogram/solution_1.java) |
 | 88 | [Merge Sorted Array](./problems/0088-merge-sorted-array) | 🟢 Easy | [`solution_1.java`](./problems/0088-merge-sorted-array/solution_1.java) |
+| 115 | [Distinct Subsequences](./problems/0115-distinct-subsequences) | 🔴 Hard | [`solution_1.java`](./problems/0115-distinct-subsequences/solution_1.java) |
 | 121 | [Best Time to Buy and Sell Stock](./problems/0121-best-time-to-buy-and-sell-stock) | 🟢 Easy | [`solution_1.java`](./problems/0121-best-time-to-buy-and-sell-stock/solution_1.java) |
 | 128 | [Longest Consecutive Sequence](./problems/0128-longest-consecutive-sequence) | 🟡 Medium | [`solution_1.java`](./problems/0128-longest-consecutive-sequence/solution_1.java) |
 | 150 | [Evaluate Reverse Polish Notation](./problems/0150-evaluate-reverse-polish-notation) | 🟡 Medium | [`solution_1.java`](./problems/0150-evaluate-reverse-polish-notation/solution_1.java) |
