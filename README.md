@@ -3,11 +3,11 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FjYI1cEg6C/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-88-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-116-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-89-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-117-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-39-28a745?style=flat-square)]()
-[![Medium](https://img.shields.io/badge/Medium-35-ffc107?style=flat-square)]()
+[![Medium](https://img.shields.io/badge/Medium-36-ffc107?style=flat-square)]()
 [![Hard](https://img.shields.io/badge/Hard-14-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
@@ -84,6 +84,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 2073 | [Time Needed to Buy Tickets](./problems/2073-time-needed-to-buy-tickets) | 🟢 Easy | [`solution_1.java`](./problems/2073-time-needed-to-buy-tickets/solution_1.java) |
 | 2091 | [Removing Minimum and Maximum From Array](./problems/2091-removing-minimum-and-maximum-from-array) | 🟡 Medium | [`solution_1.java`](./problems/2091-removing-minimum-and-maximum-from-array/solution_1.java), [`solution_2.java`](./problems/2091-removing-minimum-and-maximum-from-array/solution_2.java) |
 | 2213 | [Longest Substring of One Repeating Character](./problems/2213-longest-substring-of-one-repeating-character) | 🔴 Hard | [`solution_1.java`](./problems/2213-longest-substring-of-one-repeating-character/solution_1.java) |
+| 2265 | [Count Nodes Equal to Average of Subtree](./problems/2265-count-nodes-equal-to-average-of-subtree) | 🟡 Medium | [`solution_1.java`](./problems/2265-count-nodes-equal-to-average-of-subtree/solution_1.java) |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string) | 🟡 Medium | [`solution_1.java`](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string/solution_1.java), [`solution_2.java`](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string/solution_2.java) |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements) | 🟡 Medium | [`solution_1.java`](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements/solution_1.java), [`solution_2.java`](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements/solution_2.java) |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./problems/2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 Medium | [`solution_1.java`](./problems/2958-length-of-longest-subarray-with-at-most-k-frequency/solution_1.java), [`solution_2.java`](./problems/2958-length-of-longest-subarray-with-at-most-k-frequency/solution_2.java) |
