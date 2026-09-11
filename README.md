@@ -3,10 +3,10 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FjYI1cEg6C/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-89-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-117-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-90-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-118-brightgreen?style=for-the-badge)](./problems)
 
-[![Easy](https://img.shields.io/badge/Easy-39-28a745?style=flat-square)]()
+[![Easy](https://img.shields.io/badge/Easy-40-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-36-ffc107?style=flat-square)]()
 [![Hard](https://img.shields.io/badge/Hard-14-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
@@ -99,6 +99,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 3345 | [Smallest Divisible Digit Product I](./problems/3345-smallest-divisible-digit-product-i) | 🟢 Easy | [`solution_1.java`](./problems/3345-smallest-divisible-digit-product-i/solution_1.java) |
 | 3348 | [Smallest Divisible Digit Product II](./problems/3348-smallest-divisible-digit-product-ii) | 🔴 Hard | [`solution_1.java`](./problems/3348-smallest-divisible-digit-product-ii/solution_1.java) |
 | 3471 | [Find the Largest Almost Missing Integer](./problems/3471-find-the-largest-almost-missing-integer) | 🟢 Easy | [`solution_1.java`](./problems/3471-find-the-largest-almost-missing-integer/solution_1.java) |
+| 3483 | [Unique 3-Digit Even Numbers](./problems/3483-unique-3-digit-even-numbers) | 🟢 Easy | [`solution_1.java`](./problems/3483-unique-3-digit-even-numbers/solution_1.java) |
 | 3517 | [Smallest Palindromic Rearrangement I](./problems/3517-smallest-palindromic-rearrangement-i) | 🟡 Medium | [`solution_1.java`](./problems/3517-smallest-palindromic-rearrangement-i/solution_1.java) |
 | 3518 | [Smallest Palindromic Rearrangement II](./problems/3518-smallest-palindromic-rearrangement-ii) | 🔴 Hard | [`solution_1.java`](./problems/3518-smallest-palindromic-rearrangement-ii/solution_1.java) |
 | 3568 | [Minimum Moves to Clean the Classroom](./problems/3568-minimum-moves-to-clean-the-classroom) | 🟡 Medium | [`solution_1.java`](./problems/3568-minimum-moves-to-clean-the-classroom/solution_1.java) |
