@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #3414: Maximum Score of Non-overlapping Intervals
  * URL: https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/
- * Solution #1 (java)
+ * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 188 ms
- * Memory: 234.3 MB
- * Submission Date: 2026-09-12 01:53:21 UTC
+ * Runtime: 188
+ * Memory: 234324000
+ * Submission Date: 2026-09-12 01:53:16 UTC
  * Submission ID: 2139046764
  */
 
