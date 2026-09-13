@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 LeetCode to GitHub Synchronizer
 --------------------------------
@@ -343,11 +343,14 @@ class SyncManager:
                 if m_title:
                     prob_id = m_title.group(1)
                     title = m_title.group(2).strip()
-                if "Hard" in text:
+                m_diff = re.search(r"\*\*Difficulty:\*\*\s*(Easy|Medium|Hard)", text, re.IGNORECASE)
+                if m_diff:
+                    difficulty = m_diff.group(1).capitalize()
+                elif "🔴 Hard" in text or "Hard" in text:
                     difficulty = "Hard"
-                elif "Medium" in text:
+                elif "🟡 Medium" in text or "Medium" in text:
                     difficulty = "Medium"
-                elif "Easy" in text:
+                elif "🟢 Easy" in text or "Easy" in text:
                     difficulty = "Easy"
 
             diff_counts[difficulty] = diff_counts.get(difficulty, 0) + 1
@@ -389,7 +392,7 @@ class SyncManager:
 
 <div align="center">
 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FjYI1cEg6C/)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
 [![Total Solved](https://img.shields.io/badge/Problems%20Solved-{total_solved}-blue?style=for-the-badge&logo=codeforces)](./problems)
 [![Total Submissions](https://img.shields.io/badge/Total%20Solutions-{total_solutions}-brightgreen?style=for-the-badge)](./problems)
 
@@ -450,6 +453,17 @@ An automated repository synchronizing all my LeetCode submissions with real-time
         try:
             subprocess.run(["git", "add", "."], check=True, capture_output=True, env=env)
             subprocess.run(["git", "commit", "-m", msg], check=True, capture_output=True, env=env)
+        except subprocess.CalledProcessError:
+            pass
+
+    def git_commit_root_readme(self):
+        if not self.config.get("git_commit", True):
+            return
+        try:
+            subprocess.run(["git", "add", "README.md"], check=True, capture_output=True)
+            res = subprocess.run(["git", "status", "--porcelain", "README.md"], check=True, capture_output=True, text=True)
+            if res.stdout.strip():
+                subprocess.run(["git", "commit", "-m", "[Auto] Update root README index and problem statistics"], check=True, capture_output=True)
         except subprocess.CalledProcessError:
             pass
 
@@ -551,6 +565,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
             self.save_synced_ids()
 
         self.update_root_readme()
+        self.git_commit_root_readme()
         print("Synchronization completed successfully!")
 
 

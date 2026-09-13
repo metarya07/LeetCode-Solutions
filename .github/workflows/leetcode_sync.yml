@@ -1,4 +1,4 @@
-﻿name: Sync LeetCode Submissions
+name: Sync LeetCode Submissions
 
 on:
   schedule:
@@ -43,6 +43,11 @@ jobs:
           DELAY_SECONDS: "1.0"
         run: |
           python leetcode_sync.py
+
+      - name: Commit Any Remaining Changes
+        run: |
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "[Auto] Update root README index and problem statistics"
 
       - name: Push Commits to GitHub
         run: |

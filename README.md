@@ -2,16 +2,16 @@
 
 <div align="center">
 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FjYI1cEg6C/)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
 [![Total Solved](https://img.shields.io/badge/Problems%20Solved-92-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-121-brightgreen?style=for-the-badge)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-125-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-40-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-37-ffc107?style=flat-square)]()
 [![Hard](https://img.shields.io/badge/Hard-15-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
-An automated repository synchronizing all my LeetCode submissions with real-time multi-solution tracking, detailed complexity metrics, and authentic submission timestamps.
+An automated repository synchronizing all my LeetCode submissions with real-time browser push, multi-solution versioning, and authentic historical timestamps.
 
 </div>
 
@@ -19,9 +19,10 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 
 ## 🌟 Highlights
 
-- **⚡ Instant Sync**: Submissions automatically pushed to GitHub upon acceptance.
-- **📁 Multi-Solution Tracking**: Preserves every distinct approach (`solution_1.java`, `solution_2.java`, etc.) without overwriting.
-- **📊 Auto-Generated Documentation**: Problem descriptions, difficulty badges, and submission stats.
+- **⚡ Instant Direct Push**: Submissions are pushed directly to GitHub the millisecond they are marked **Accepted** on LeetCode via the browser extension.
+- **📁 Multi-Solution Tracking**: When a problem is solved with multiple approaches (e.g. brute force, two-pointers, hash map, or different languages), all attempts are preserved as individual files (`solution_1.java`, `solution_2.java`, `solution_3.cpp`) without overwriting!
+- **📅 Historical Timeline**: Preserves authentic LeetCode submission timestamps across GitHub commits.
+- **🤖 Cloud Backup**: Automated GitHub Action workflow running every 6 hours to ensure continuous 100% sync reliability.
 
 ---
 
@@ -62,7 +63,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 636 | [Exclusive Time of Functions](./problems/0636-exclusive-time-of-functions) | 🟡 Medium | [`solution_1.java`](./problems/0636-exclusive-time-of-functions/solution_1.java) |
 | 645 | [Set Mismatch](./problems/0645-set-mismatch) | 🟢 Easy | [`solution_1.java`](./problems/0645-set-mismatch/solution_1.java) |
 | 739 | [Daily Temperatures](./problems/0739-daily-temperatures) | 🟡 Medium | [`solution_1.java`](./problems/0739-daily-temperatures/solution_1.java) |
-| 835 | [Image Overlap](./problems/0835-image-overlap) | 🟡 Medium | [`solution_1.java`](./problems/0835-image-overlap/solution_1.java) |
+| 835 | [Image Overlap](./problems/0835-image-overlap) | 🟡 Medium | [`solution_1.java`](./problems/0835-image-overlap/solution_1.java), [`solution_2.java`](./problems/0835-image-overlap/solution_2.java) |
 | 877 | [Stone Game](./problems/0877-stone-game) | 🟡 Medium | [`solution_1.java`](./problems/0877-stone-game/solution_1.java), [`solution_2.java`](./problems/0877-stone-game/solution_2.java), [`solution_3.java`](./problems/0877-stone-game/solution_3.java) |
 | 940 | [Distinct Subsequences II](./problems/0940-distinct-subsequences-ii) | 🔴 Hard | [`solution_1.java`](./problems/0940-distinct-subsequences-ii/solution_1.java) |
 | 1140 | [Stone Game II](./problems/1140-stone-game-ii) | 🟡 Medium | [`solution_1.java`](./problems/1140-stone-game-ii/solution_1.java), [`solution_2.java`](./problems/1140-stone-game-ii/solution_2.java) |
@@ -85,7 +86,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 2073 | [Time Needed to Buy Tickets](./problems/2073-time-needed-to-buy-tickets) | 🟢 Easy | [`solution_1.java`](./problems/2073-time-needed-to-buy-tickets/solution_1.java) |
 | 2091 | [Removing Minimum and Maximum From Array](./problems/2091-removing-minimum-and-maximum-from-array) | 🟡 Medium | [`solution_1.java`](./problems/2091-removing-minimum-and-maximum-from-array/solution_1.java), [`solution_2.java`](./problems/2091-removing-minimum-and-maximum-from-array/solution_2.java) |
 | 2213 | [Longest Substring of One Repeating Character](./problems/2213-longest-substring-of-one-repeating-character) | 🔴 Hard | [`solution_1.java`](./problems/2213-longest-substring-of-one-repeating-character/solution_1.java) |
-| 2265 | [Count Nodes Equal to Average of Subtree](./problems/2265-count-nodes-equal-to-average-of-subtree) | 🟡 Medium | [`solution_1.java`](./problems/2265-count-nodes-equal-to-average-of-subtree/solution_1.java) |
+| 2265 | [Count Nodes Equal to Average of Subtree](./problems/2265-count-nodes-equal-to-average-of-subtree) | 🟡 Medium | [`solution_1.java`](./problems/2265-count-nodes-equal-to-average-of-subtree/solution_1.java), [`solution_2.java`](./problems/2265-count-nodes-equal-to-average-of-subtree/solution_2.java) |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string) | 🟡 Medium | [`solution_1.java`](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string/solution_1.java), [`solution_2.java`](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string/solution_2.java) |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements) | 🟡 Medium | [`solution_1.java`](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements/solution_1.java), [`solution_2.java`](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements/solution_2.java) |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./problems/2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 Medium | [`solution_1.java`](./problems/2958-length-of-longest-subarray-with-at-most-k-frequency/solution_1.java), [`solution_2.java`](./problems/2958-length-of-longest-subarray-with-at-most-k-frequency/solution_2.java) |
@@ -99,7 +100,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 3310 | [Remove Methods From Project](./problems/3310-remove-methods-from-project) | 🟡 Medium | [`solution_1.java`](./problems/3310-remove-methods-from-project/solution_1.java) |
 | 3345 | [Smallest Divisible Digit Product I](./problems/3345-smallest-divisible-digit-product-i) | 🟢 Easy | [`solution_1.java`](./problems/3345-smallest-divisible-digit-product-i/solution_1.java) |
 | 3348 | [Smallest Divisible Digit Product II](./problems/3348-smallest-divisible-digit-product-ii) | 🔴 Hard | [`solution_1.java`](./problems/3348-smallest-divisible-digit-product-ii/solution_1.java) |
-| 3414 | [Maximum Score of Non-overlapping Intervals](./problems/3414-maximum-score-of-non-overlapping-intervals) | 🔴 Hard | [`solution_1.java`](./problems/3414-maximum-score-of-non-overlapping-intervals/solution_1.java) |
+| 3414 | [Maximum Score of Non-overlapping Intervals](./problems/3414-maximum-score-of-non-overlapping-intervals) | 🔴 Hard | [`solution_1.java`](./problems/3414-maximum-score-of-non-overlapping-intervals/solution_1.java), [`solution_2.java`](./problems/3414-maximum-score-of-non-overlapping-intervals/solution_2.java) |
 | 3471 | [Find the Largest Almost Missing Integer](./problems/3471-find-the-largest-almost-missing-integer) | 🟢 Easy | [`solution_1.java`](./problems/3471-find-the-largest-almost-missing-integer/solution_1.java) |
 | 3483 | [Unique 3-Digit Even Numbers](./problems/3483-unique-3-digit-even-numbers) | 🟢 Easy | [`solution_1.java`](./problems/3483-unique-3-digit-even-numbers/solution_1.java), [`solution_2.java`](./problems/3483-unique-3-digit-even-numbers/solution_2.java) |
 | 3517 | [Smallest Palindromic Rearrangement I](./problems/3517-smallest-palindromic-rearrangement-i) | 🟡 Medium | [`solution_1.java`](./problems/3517-smallest-palindromic-rearrangement-i/solution_1.java) |
@@ -112,7 +113,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 3731 | [Find Missing Elements](./problems/3731-find-missing-elements) | 🟢 Easy | [`solution_1.java`](./problems/3731-find-missing-elements/solution_1.java) |
 | 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) | 🔴 Hard | [`solution_1.java`](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution_1.java), [`solution_2.java`](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution_2.java), [`solution_3.java`](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution_3.java) |
 | 3870 | [Count Commas in Range](./problems/3870-count-commas-in-range) | 🟢 Easy | [`solution_1.java`](./problems/3870-count-commas-in-range/solution_1.java) |
-| 3871 | [Count Commas in Range II](./problems/3871-count-commas-in-range-ii) | 🟡 Medium | [`solution_2.java`](./problems/3871-count-commas-in-range-ii/solution_2.java) |
+| 3871 | [Count Commas in Range II](./problems/3871-count-commas-in-range-ii) | 🟡 Medium | [`solution_1.java`](./problems/3871-count-commas-in-range-ii/solution_1.java), [`solution_2.java`](./problems/3871-count-commas-in-range-ii/solution_2.java) |
 | 3875 | [Construct Uniform Parity Array I](./problems/3875-construct-uniform-parity-array-i) | 🟢 Easy | [`solution_1.java`](./problems/3875-construct-uniform-parity-array-i/solution_1.java), [`solution_2.java`](./problems/3875-construct-uniform-parity-array-i/solution_2.java) |
 | 3876 | [Construct Uniform Parity Array II](./problems/3876-construct-uniform-parity-array-ii) | 🟡 Medium | [`solution_1.java`](./problems/3876-construct-uniform-parity-array-ii/solution_1.java), [`solution_2.java`](./problems/3876-construct-uniform-parity-array-ii/solution_2.java), [`solution_3.java`](./problems/3876-construct-uniform-parity-array-ii/solution_3.java) |
 | 3903 | [Smallest Stable Index I](./problems/3903-smallest-stable-index-i) | 🟢 Easy | [`solution_1.java`](./problems/3903-smallest-stable-index-i/solution_1.java) |
@@ -121,6 +122,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 4015 | [Weighted Sum of a Tree](./problems/4015-weighted-sum-of-a-tree) | 🟡 Medium | [`solution_1.java`](./problems/4015-weighted-sum-of-a-tree/solution_1.java) |
 | 4016 | [Maximum Area of Two Non-Overlapping Square Submatrices](./problems/4016-maximum-area-of-two-non-overlapping-square-submatrices) | 🟡 Medium | [`solution_1.java`](./problems/4016-maximum-area-of-two-non-overlapping-square-submatrices/solution_1.java) |
 | 4017 | [Peaks in Array II](./problems/4017-peaks-in-array-ii) | 🔴 Hard | [`solution_1.java`](./problems/4017-peaks-in-array-ii/solution_1.java) |
+
 ---
 
 <div align="center">
