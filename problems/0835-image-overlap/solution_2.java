@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #835: Image Overlap
  * URL: https://leetcode.com/problems/image-overlap/
- * Solution #2 (java)
+ * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 3 ms
- * Memory: 44.3 MB
- * Submission Date: 2026-09-13 01:19:30 UTC
+ * Runtime: 3
+ * Memory: 44272000
+ * Submission Date: 2026-09-13 01:19:25 UTC
  * Submission ID: 2140082022
  */
 
