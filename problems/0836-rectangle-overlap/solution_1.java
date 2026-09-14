@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #836: Rectangle Overlap
  * URL: https://leetcode.com/problems/rectangle-overlap/
- * Solution #1 (java)
+ * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 0 ms
- * Memory: 42.7 MB
- * Submission Date: 2026-09-14 01:38:41 UTC
+ * Runtime: 0
+ * Memory: 42704000
+ * Submission Date: 2026-09-14 01:38:36 UTC
  * Submission ID: 2141100748
  */
 
