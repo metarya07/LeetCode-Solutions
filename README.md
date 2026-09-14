@@ -3,10 +3,10 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-92-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-125-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-93-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-126-brightgreen?style=for-the-badge)](./problems)
 
-[![Easy](https://img.shields.io/badge/Easy-40-28a745?style=flat-square)]()
+[![Easy](https://img.shields.io/badge/Easy-41-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-37-ffc107?style=flat-square)]()
 [![Hard](https://img.shields.io/badge/Hard-15-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
@@ -64,6 +64,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 645 | [Set Mismatch](./problems/0645-set-mismatch) | 🟢 Easy | [`solution_1.java`](./problems/0645-set-mismatch/solution_1.java) |
 | 739 | [Daily Temperatures](./problems/0739-daily-temperatures) | 🟡 Medium | [`solution_1.java`](./problems/0739-daily-temperatures/solution_1.java) |
 | 835 | [Image Overlap](./problems/0835-image-overlap) | 🟡 Medium | [`solution_1.java`](./problems/0835-image-overlap/solution_1.java), [`solution_2.java`](./problems/0835-image-overlap/solution_2.java) |
+| 836 | [Rectangle Overlap](./problems/0836-rectangle-overlap) | 🟢 Easy | [`solution_1.java`](./problems/0836-rectangle-overlap/solution_1.java) |
 | 877 | [Stone Game](./problems/0877-stone-game) | 🟡 Medium | [`solution_1.java`](./problems/0877-stone-game/solution_1.java), [`solution_2.java`](./problems/0877-stone-game/solution_2.java), [`solution_3.java`](./problems/0877-stone-game/solution_3.java) |
 | 940 | [Distinct Subsequences II](./problems/0940-distinct-subsequences-ii) | 🔴 Hard | [`solution_1.java`](./problems/0940-distinct-subsequences-ii/solution_1.java) |
 | 1140 | [Stone Game II](./problems/1140-stone-game-ii) | 🟡 Medium | [`solution_1.java`](./problems/1140-stone-game-ii/solution_1.java), [`solution_2.java`](./problems/1140-stone-game-ii/solution_2.java) |
@@ -122,7 +123,6 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 4015 | [Weighted Sum of a Tree](./problems/4015-weighted-sum-of-a-tree) | 🟡 Medium | [`solution_1.java`](./problems/4015-weighted-sum-of-a-tree/solution_1.java) |
 | 4016 | [Maximum Area of Two Non-Overlapping Square Submatrices](./problems/4016-maximum-area-of-two-non-overlapping-square-submatrices) | 🟡 Medium | [`solution_1.java`](./problems/4016-maximum-area-of-two-non-overlapping-square-submatrices/solution_1.java) |
 | 4017 | [Peaks in Array II](./problems/4017-peaks-in-array-ii) | 🔴 Hard | [`solution_1.java`](./problems/4017-peaks-in-array-ii/solution_1.java) |
-
 ---
 
 <div align="center">
