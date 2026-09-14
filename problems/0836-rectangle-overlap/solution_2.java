@@ -3,9 +3,9 @@
  * URL: https://leetcode.com/problems/rectangle-overlap/
  * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 0 ms
+ * Runtime: 0
  * Memory: 42912000
- * Submission Date: 2026-09-14 01:39:45 UTC
+ * Submission Date: 2026-09-14 01:39:13 UTC
  * Submission ID: 2141100953
  */
 
