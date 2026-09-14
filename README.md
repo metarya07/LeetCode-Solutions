@@ -4,7 +4,7 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
 [![Total Solved](https://img.shields.io/badge/Problems%20Solved-93-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-126-brightgreen?style=for-the-badge)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-127-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-41-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-37-ffc107?style=flat-square)]()
@@ -64,7 +64,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 645 | [Set Mismatch](./problems/0645-set-mismatch) | 🟢 Easy | [`solution_1.java`](./problems/0645-set-mismatch/solution_1.java) |
 | 739 | [Daily Temperatures](./problems/0739-daily-temperatures) | 🟡 Medium | [`solution_1.java`](./problems/0739-daily-temperatures/solution_1.java) |
 | 835 | [Image Overlap](./problems/0835-image-overlap) | 🟡 Medium | [`solution_1.java`](./problems/0835-image-overlap/solution_1.java), [`solution_2.java`](./problems/0835-image-overlap/solution_2.java) |
-| 836 | [Rectangle Overlap](./problems/0836-rectangle-overlap) | 🟢 Easy | [`solution_1.java`](./problems/0836-rectangle-overlap/solution_1.java) |
+| 836 | [Rectangle Overlap](./problems/0836-rectangle-overlap) | 🟢 Easy | [`solution_1.java`](./problems/0836-rectangle-overlap/solution_1.java), [`solution_2.java`](./problems/0836-rectangle-overlap/solution_2.java) |
 | 877 | [Stone Game](./problems/0877-stone-game) | 🟡 Medium | [`solution_1.java`](./problems/0877-stone-game/solution_1.java), [`solution_2.java`](./problems/0877-stone-game/solution_2.java), [`solution_3.java`](./problems/0877-stone-game/solution_3.java) |
 | 940 | [Distinct Subsequences II](./problems/0940-distinct-subsequences-ii) | 🔴 Hard | [`solution_1.java`](./problems/0940-distinct-subsequences-ii/solution_1.java) |
 | 1140 | [Stone Game II](./problems/1140-stone-game-ii) | 🟡 Medium | [`solution_1.java`](./problems/1140-stone-game-ii/solution_1.java), [`solution_2.java`](./problems/1140-stone-game-ii/solution_2.java) |
