@@ -3,12 +3,12 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-93-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-127-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-94-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-128-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-41-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-37-ffc107?style=flat-square)]()
-[![Hard](https://img.shields.io/badge/Hard-15-dc3545?style=flat-square)]()
+[![Hard](https://img.shields.io/badge/Hard-16-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
 An automated repository synchronizing all my LeetCode submissions with real-time browser push, multi-solution versioning, and authentic historical timestamps.
@@ -88,6 +88,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 2091 | [Removing Minimum and Maximum From Array](./problems/2091-removing-minimum-and-maximum-from-array) | 🟡 Medium | [`solution_1.java`](./problems/2091-removing-minimum-and-maximum-from-array/solution_1.java), [`solution_2.java`](./problems/2091-removing-minimum-and-maximum-from-array/solution_2.java) |
 | 2213 | [Longest Substring of One Repeating Character](./problems/2213-longest-substring-of-one-repeating-character) | 🔴 Hard | [`solution_1.java`](./problems/2213-longest-substring-of-one-repeating-character/solution_1.java) |
 | 2265 | [Count Nodes Equal to Average of Subtree](./problems/2265-count-nodes-equal-to-average-of-subtree) | 🟡 Medium | [`solution_1.java`](./problems/2265-count-nodes-equal-to-average-of-subtree/solution_1.java), [`solution_2.java`](./problems/2265-count-nodes-equal-to-average-of-subtree/solution_2.java) |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./problems/2472-maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 Hard | [`solution_1.java`](./problems/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution_1.java) |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string) | 🟡 Medium | [`solution_1.java`](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string/solution_1.java), [`solution_2.java`](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string/solution_2.java) |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements) | 🟡 Medium | [`solution_1.java`](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements/solution_1.java), [`solution_2.java`](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements/solution_2.java) |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./problems/2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 Medium | [`solution_1.java`](./problems/2958-length-of-longest-subarray-with-at-most-k-frequency/solution_1.java), [`solution_2.java`](./problems/2958-length-of-longest-subarray-with-at-most-k-frequency/solution_2.java) |
