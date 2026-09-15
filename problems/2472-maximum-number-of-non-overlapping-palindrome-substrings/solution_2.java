@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #2472: Maximum Number of Non-overlapping Palindrome Substrings
  * URL: https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/
- * Solution #2 (java)
+ * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 1 ms
- * Memory: 43 MB
- * Submission Date: 2026-09-15 04:23:17 UTC
+ * Runtime: 1
+ * Memory: 43008000
+ * Submission Date: 2026-09-15 04:23:12 UTC
  * Submission ID: 2142172278
  */
 
