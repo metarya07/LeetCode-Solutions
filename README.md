@@ -4,7 +4,7 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
 [![Total Solved](https://img.shields.io/badge/Problems%20Solved-96-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-131-brightgreen?style=for-the-badge)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-132-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-41-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-39-ffc107?style=flat-square)]()
@@ -75,7 +75,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 1464 | [Maximum Product of Two Elements in an Array](./problems/1464-maximum-product-of-two-elements-in-an-array) | 🟢 Easy | [`solution_1.java`](./problems/1464-maximum-product-of-two-elements-in-an-array/solution_1.java), [`solution_2.java`](./problems/1464-maximum-product-of-two-elements-in-an-array/solution_2.java) |
 | 1470 | [Shuffle the Array](./problems/1470-shuffle-the-array) | 🟢 Easy | [`solution_1.java`](./problems/1470-shuffle-the-array/solution_1.java) |
 | 1475 | [Final Prices With a Special Discount in a Shop](./problems/1475-final-prices-with-a-special-discount-in-a-shop) | 🟢 Easy | [`solution_1.java`](./problems/1475-final-prices-with-a-special-discount-in-a-shop/solution_1.java), [`solution_2.java`](./problems/1475-final-prices-with-a-special-discount-in-a-shop/solution_2.java) |
-| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](./problems/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | [`solution_1.java`](./problems/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution_1.java) |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](./problems/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | [`solution_1.java`](./problems/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution_1.java), [`solution_2.java`](./problems/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution_2.java) |
 | 1510 | [Stone Game IV](./problems/1510-stone-game-iv) | 🔴 Hard | [`solution_1.java`](./problems/1510-stone-game-iv/solution_1.java) |
 | 1563 | [Stone Game V](./problems/1563-stone-game-v) | 🔴 Hard | [`solution_1.java`](./problems/1563-stone-game-v/solution_1.java), [`solution_2.java`](./problems/1563-stone-game-v/solution_2.java) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](./problems/1621-number-of-sets-of-k-non-overlapping-line-segments) | 🟡 Medium | [`solution_1.java`](./problems/1621-number-of-sets-of-k-non-overlapping-line-segments/solution_1.java) |
