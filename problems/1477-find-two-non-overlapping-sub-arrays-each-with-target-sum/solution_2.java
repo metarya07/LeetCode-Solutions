@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #1477: Find Two Non-overlapping Sub-arrays Each With Target Sum
  * URL: https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
- * Solution #2 (java)
+ * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 5 ms
- * Memory: 90.3 MB
- * Submission Date: 2026-09-17 01:18:03 UTC
+ * Runtime: 5
+ * Memory: 90340000
+ * Submission Date: 2026-09-17 01:17:58 UTC
  * Submission ID: 2144191997
  */
 
