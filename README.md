@@ -3,12 +3,12 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-96-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-132-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-97-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-133-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-41-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-39-ffc107?style=flat-square)]()
-[![Hard](https://img.shields.io/badge/Hard-16-dc3545?style=flat-square)]()
+[![Hard](https://img.shields.io/badge/Hard-17-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
 An automated repository synchronizing all my LeetCode submissions with real-time browser push, multi-solution versioning, and authentic historical timestamps.
@@ -77,6 +77,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 1475 | [Final Prices With a Special Discount in a Shop](./problems/1475-final-prices-with-a-special-discount-in-a-shop) | 🟢 Easy | [`solution_1.java`](./problems/1475-final-prices-with-a-special-discount-in-a-shop/solution_1.java), [`solution_2.java`](./problems/1475-final-prices-with-a-special-discount-in-a-shop/solution_2.java) |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](./problems/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | [`solution_1.java`](./problems/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution_1.java), [`solution_2.java`](./problems/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution_2.java) |
 | 1510 | [Stone Game IV](./problems/1510-stone-game-iv) | 🔴 Hard | [`solution_1.java`](./problems/1510-stone-game-iv/solution_1.java) |
+| 1520 | [Maximum Number of Non-Overlapping Substrings](./problems/1520-maximum-number-of-non-overlapping-substrings) | 🔴 Hard | [`solution_1.java`](./problems/1520-maximum-number-of-non-overlapping-substrings/solution_1.java) |
 | 1563 | [Stone Game V](./problems/1563-stone-game-v) | 🔴 Hard | [`solution_1.java`](./problems/1563-stone-game-v/solution_1.java), [`solution_2.java`](./problems/1563-stone-game-v/solution_2.java) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](./problems/1621-number-of-sets-of-k-non-overlapping-line-segments) | 🟡 Medium | [`solution_1.java`](./problems/1621-number-of-sets-of-k-non-overlapping-line-segments/solution_1.java) |
 | 1700 | [Number of Students Unable to Eat Lunch](./problems/1700-number-of-students-unable-to-eat-lunch) | 🟢 Easy | [`solution_1.java`](./problems/1700-number-of-students-unable-to-eat-lunch/solution_1.java) |
