@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #1520: Maximum Number of Non-Overlapping Substrings
  * URL: https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/
- * Solution #2 (java)
+ * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 7 ms
- * Memory: 48.1 MB
- * Submission Date: 2026-09-18 02:14:34 UTC
+ * Runtime: 7
+ * Memory: 48076000
+ * Submission Date: 2026-09-18 02:14:28 UTC
  * Submission ID: 2145261954
  */
 
