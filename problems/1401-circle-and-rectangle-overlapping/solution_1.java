@@ -3,9 +3,9 @@
  * URL: https://leetcode.com/problems/circle-and-rectangle-overlapping/
  * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 0 ms
+ * Runtime: 0
  * Memory: 41900000
- * Submission Date: 2026-09-19 04:37:59 UTC
+ * Submission Date: 2026-09-19 04:37:46 UTC
  * Submission ID: 2146280250
  */
 
