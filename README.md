@@ -3,11 +3,11 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-97-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-134-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-98-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-135-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-41-28a745?style=flat-square)]()
-[![Medium](https://img.shields.io/badge/Medium-39-ffc107?style=flat-square)]()
+[![Medium](https://img.shields.io/badge/Medium-40-ffc107?style=flat-square)]()
 [![Hard](https://img.shields.io/badge/Hard-17-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
@@ -70,6 +70,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 1140 | [Stone Game II](./problems/1140-stone-game-ii) | 🟡 Medium | [`solution_1.java`](./problems/1140-stone-game-ii/solution_1.java), [`solution_2.java`](./problems/1140-stone-game-ii/solution_2.java) |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](./problems/1365-how-many-numbers-are-smaller-than-the-current-number) | 🟢 Easy | [`solution_1.java`](./problems/1365-how-many-numbers-are-smaller-than-the-current-number/solution_1.java), [`solution_2.java`](./problems/1365-how-many-numbers-are-smaller-than-the-current-number/solution_2.java) |
 | 1386 | [Cinema Seat Allocation](./problems/1386-cinema-seat-allocation) | 🟡 Medium | [`solution_1.java`](./problems/1386-cinema-seat-allocation/solution_1.java), [`solution_2.java`](./problems/1386-cinema-seat-allocation/solution_2.java) |
+| 1401 | [Circle and Rectangle Overlapping](./problems/1401-circle-and-rectangle-overlapping) | 🟡 Medium | [`solution_1.java`](./problems/1401-circle-and-rectangle-overlapping/solution_1.java) |
 | 1406 | [Stone Game III](./problems/1406-stone-game-iii) | 🔴 Hard | [`solution_1.java`](./problems/1406-stone-game-iii/solution_1.java) |
 | 1441 | [Build an Array With Stack Operations](./problems/1441-build-an-array-with-stack-operations) | 🟡 Medium | [`solution_1.java`](./problems/1441-build-an-array-with-stack-operations/solution_1.java) |
 | 1464 | [Maximum Product of Two Elements in an Array](./problems/1464-maximum-product-of-two-elements-in-an-array) | 🟢 Easy | [`solution_1.java`](./problems/1464-maximum-product-of-two-elements-in-an-array/solution_1.java), [`solution_2.java`](./problems/1464-maximum-product-of-two-elements-in-an-array/solution_2.java) |
