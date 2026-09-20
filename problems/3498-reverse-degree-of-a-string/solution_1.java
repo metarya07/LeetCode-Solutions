@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #3498: Reverse Degree of a String
  * URL: https://leetcode.com/problems/reverse-degree-of-a-string/
- * Solution #1 (java)
+ * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 1 ms
- * Memory: 44.5 MB
- * Submission Date: 2026-09-20 02:03:50 UTC
+ * Runtime: 1
+ * Memory: 44488000
+ * Submission Date: 2026-09-20 02:03:48 UTC
  * Submission ID: 2147127045
  */
 
