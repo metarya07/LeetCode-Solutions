@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #3524: Find X Value of Array I
  * URL: https://leetcode.com/problems/find-x-value-of-array-i/
- * Solution #2 (java)
+ * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 9 ms
- * Memory: 91.8 MB
- * Submission Date: 2026-09-21 01:34:44 UTC
+ * Runtime: 9
+ * Memory: 91764000
+ * Submission Date: 2026-09-21 01:34:43 UTC
  * Submission ID: 2148168141
  */
 
