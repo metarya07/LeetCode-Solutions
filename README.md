@@ -3,11 +3,11 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-101-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-140-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-102-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-141-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-42-28a745?style=flat-square)]()
-[![Medium](https://img.shields.io/badge/Medium-41-ffc107?style=flat-square)]()
+[![Medium](https://img.shields.io/badge/Medium-42-ffc107?style=flat-square)]()
 [![Hard](https://img.shields.io/badge/Hard-18-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
@@ -81,6 +81,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 1520 | [Maximum Number of Non-Overlapping Substrings](./problems/1520-maximum-number-of-non-overlapping-substrings) | 🔴 Hard | [`solution_1.java`](./problems/1520-maximum-number-of-non-overlapping-substrings/solution_1.java), [`solution_2.java`](./problems/1520-maximum-number-of-non-overlapping-substrings/solution_2.java) |
 | 1563 | [Stone Game V](./problems/1563-stone-game-v) | 🔴 Hard | [`solution_1.java`](./problems/1563-stone-game-v/solution_1.java), [`solution_2.java`](./problems/1563-stone-game-v/solution_2.java) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](./problems/1621-number-of-sets-of-k-non-overlapping-line-segments) | 🟡 Medium | [`solution_1.java`](./problems/1621-number-of-sets-of-k-non-overlapping-line-segments/solution_1.java) |
+| 1658 | [Minimum Operations to Reduce X to Zero](./problems/1658-minimum-operations-to-reduce-x-to-zero) | 🟡 Medium | [`solution_1.java`](./problems/1658-minimum-operations-to-reduce-x-to-zero/solution_1.java) |
 | 1700 | [Number of Students Unable to Eat Lunch](./problems/1700-number-of-students-unable-to-eat-lunch) | 🟢 Easy | [`solution_1.java`](./problems/1700-number-of-students-unable-to-eat-lunch/solution_1.java) |
 | 1872 | [Stone Game VIII](./problems/1872-stone-game-viii) | 🔴 Hard | [`solution_1.java`](./problems/1872-stone-game-viii/solution_1.java) |
 | 1920 | [Build Array from Permutation](./problems/1920-build-array-from-permutation) | 🟢 Easy | [`solution_1.java`](./problems/1920-build-array-from-permutation/solution_1.java) |
