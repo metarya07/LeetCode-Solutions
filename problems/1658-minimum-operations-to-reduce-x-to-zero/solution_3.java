@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #1658: Minimum Operations to Reduce X to Zero
  * URL: https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
- * Solution #3 (java)
+ * Solution #3 (Java)
  * Status: Accepted
- * Runtime: 1460 ms
- * Memory: 81 MB
- * Submission Date: 2026-09-23 02:28:33 UTC
+ * Runtime: 1460
+ * Memory: 81008000
+ * Submission Date: 2026-09-23 02:28:26 UTC
  * Submission ID: 2150334793
  */
 
