@@ -4,7 +4,7 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
 [![Total Solved](https://img.shields.io/badge/Problems%20Solved-103-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-144-brightgreen?style=for-the-badge)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-145-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-43-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-42-ffc107?style=flat-square)]()
@@ -115,7 +115,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 3518 | [Smallest Palindromic Rearrangement II](./problems/3518-smallest-palindromic-rearrangement-ii) | 🔴 Hard | [`solution_1.java`](./problems/3518-smallest-palindromic-rearrangement-ii/solution_1.java) |
 | 3524 | [Find X Value of Array I](./problems/3524-find-x-value-of-array-i) | 🟡 Medium | [`solution_1.java`](./problems/3524-find-x-value-of-array-i/solution_1.java), [`solution_2.java`](./problems/3524-find-x-value-of-array-i/solution_2.java) |
 | 3525 | [Find X Value of Array II](./problems/3525-find-x-value-of-array-ii) | 🔴 Hard | [`solution_1.java`](./problems/3525-find-x-value-of-array-ii/solution_1.java) |
-| 3550 | [Smallest Index With Digit Sum Equal to Index](./problems/3550-smallest-index-with-digit-sum-equal-to-index) | 🟢 Easy | [`solution_1.java`](./problems/3550-smallest-index-with-digit-sum-equal-to-index/solution_1.java) |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](./problems/3550-smallest-index-with-digit-sum-equal-to-index) | 🟢 Easy | [`solution_1.java`](./problems/3550-smallest-index-with-digit-sum-equal-to-index/solution_1.java), [`solution_2.java`](./problems/3550-smallest-index-with-digit-sum-equal-to-index/solution_2.java) |
 | 3568 | [Minimum Moves to Clean the Classroom](./problems/3568-minimum-moves-to-clean-the-classroom) | 🟡 Medium | [`solution_1.java`](./problems/3568-minimum-moves-to-clean-the-classroom/solution_1.java) |
 | 3622 | [Check Divisibility by Digit Sum and Product](./problems/3622-check-divisibility-by-digit-sum-and-product) | 🟢 Easy | [`solution_1.java`](./problems/3622-check-divisibility-by-digit-sum-and-product/solution_1.java) |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./problems/3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 Medium | [`solution_1.java`](./problems/3702-longest-subsequence-with-non-zero-bitwise-xor/solution_1.java) |
