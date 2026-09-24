@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #3550: Smallest Index With Digit Sum Equal to Index
  * URL: https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/
- * Solution #2 (java)
+ * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 1 ms
- * Memory: 45.6 MB
- * Submission Date: 2026-09-24 02:17:22 UTC
+ * Runtime: 1
+ * Memory: 45580000
+ * Submission Date: 2026-09-24 02:17:02 UTC
  * Submission ID: 2151469592
  */
 
