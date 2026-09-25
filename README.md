@@ -3,12 +3,12 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-103-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-145-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-104-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-146-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-43-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-42-ffc107?style=flat-square)]()
-[![Hard](https://img.shields.io/badge/Hard-18-dc3545?style=flat-square)]()
+[![Hard](https://img.shields.io/badge/Hard-19-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
 An automated repository synchronizing all my LeetCode submissions with real-time browser push, multi-solution versioning, and authentic historical timestamps.
@@ -67,6 +67,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 836 | [Rectangle Overlap](./problems/0836-rectangle-overlap) | 🟢 Easy | [`solution_1.java`](./problems/0836-rectangle-overlap/solution_1.java), [`solution_2.java`](./problems/0836-rectangle-overlap/solution_2.java) |
 | 877 | [Stone Game](./problems/0877-stone-game) | 🟡 Medium | [`solution_1.java`](./problems/0877-stone-game/solution_1.java), [`solution_2.java`](./problems/0877-stone-game/solution_2.java), [`solution_3.java`](./problems/0877-stone-game/solution_3.java) |
 | 940 | [Distinct Subsequences II](./problems/0940-distinct-subsequences-ii) | 🔴 Hard | [`solution_1.java`](./problems/0940-distinct-subsequences-ii/solution_1.java) |
+| 1096 | [Brace Expansion II](./problems/1096-brace-expansion-ii) | 🔴 Hard | [`solution_1.java`](./problems/1096-brace-expansion-ii/solution_1.java) |
 | 1140 | [Stone Game II](./problems/1140-stone-game-ii) | 🟡 Medium | [`solution_1.java`](./problems/1140-stone-game-ii/solution_1.java), [`solution_2.java`](./problems/1140-stone-game-ii/solution_2.java) |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](./problems/1365-how-many-numbers-are-smaller-than-the-current-number) | 🟢 Easy | [`solution_1.java`](./problems/1365-how-many-numbers-are-smaller-than-the-current-number/solution_1.java), [`solution_2.java`](./problems/1365-how-many-numbers-are-smaller-than-the-current-number/solution_2.java) |
 | 1386 | [Cinema Seat Allocation](./problems/1386-cinema-seat-allocation) | 🟡 Medium | [`solution_1.java`](./problems/1386-cinema-seat-allocation/solution_1.java), [`solution_2.java`](./problems/1386-cinema-seat-allocation/solution_2.java) |
