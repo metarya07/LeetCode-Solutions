@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #1096: Brace Expansion II
  * URL: https://leetcode.com/problems/brace-expansion-ii/
- * Solution #2 (java)
+ * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 7 ms
- * Memory: 47 MB
- * Submission Date: 2026-09-25 03:29:47 UTC
+ * Runtime: 7
+ * Memory: 46968000
+ * Submission Date: 2026-09-25 03:29:43 UTC
  * Submission ID: 2152561453
  */
 
