@@ -4,7 +4,7 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
 [![Total Solved](https://img.shields.io/badge/Problems%20Solved-105-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-148-brightgreen?style=for-the-badge)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-149-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-43-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-43-ffc107?style=flat-square)]()
@@ -84,7 +84,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](./problems/1621-number-of-sets-of-k-non-overlapping-line-segments) | 🟡 Medium | [`solution_1.java`](./problems/1621-number-of-sets-of-k-non-overlapping-line-segments/solution_1.java) |
 | 1658 | [Minimum Operations to Reduce X to Zero](./problems/1658-minimum-operations-to-reduce-x-to-zero) | 🟡 Medium | [`solution_1.java`](./problems/1658-minimum-operations-to-reduce-x-to-zero/solution_1.java), [`solution_2.java`](./problems/1658-minimum-operations-to-reduce-x-to-zero/solution_2.java), [`solution_3.java`](./problems/1658-minimum-operations-to-reduce-x-to-zero/solution_3.java) |
 | 1700 | [Number of Students Unable to Eat Lunch](./problems/1700-number-of-students-unable-to-eat-lunch) | 🟢 Easy | [`solution_1.java`](./problems/1700-number-of-students-unable-to-eat-lunch/solution_1.java) |
-| 1807 | [Evaluate the Bracket Pairs of a String](./problems/1807-evaluate-the-bracket-pairs-of-a-string) | 🟡 Medium | [`solution_1.java`](./problems/1807-evaluate-the-bracket-pairs-of-a-string/solution_1.java) |
+| 1807 | [Evaluate the Bracket Pairs of a String](./problems/1807-evaluate-the-bracket-pairs-of-a-string) | 🟡 Medium | [`solution_1.java`](./problems/1807-evaluate-the-bracket-pairs-of-a-string/solution_1.java), [`solution_2.java`](./problems/1807-evaluate-the-bracket-pairs-of-a-string/solution_2.java) |
 | 1872 | [Stone Game VIII](./problems/1872-stone-game-viii) | 🔴 Hard | [`solution_1.java`](./problems/1872-stone-game-viii/solution_1.java) |
 | 1920 | [Build Array from Permutation](./problems/1920-build-array-from-permutation) | 🟢 Easy | [`solution_1.java`](./problems/1920-build-array-from-permutation/solution_1.java) |
 | 1927 | [Sum Game](./problems/1927-sum-game) | 🟡 Medium | [`solution_1.java`](./problems/1927-sum-game/solution_1.java) |
