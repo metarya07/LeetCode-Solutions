@@ -4,7 +4,7 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
 [![Total Solved](https://img.shields.io/badge/Problems%20Solved-106-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-150-brightgreen?style=for-the-badge)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-151-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-43-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-44-ffc107?style=flat-square)]()
@@ -69,7 +69,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 940 | [Distinct Subsequences II](./problems/0940-distinct-subsequences-ii) | 🔴 Hard | [`solution_1.java`](./problems/0940-distinct-subsequences-ii/solution_1.java) |
 | 1096 | [Brace Expansion II](./problems/1096-brace-expansion-ii) | 🔴 Hard | [`solution_1.java`](./problems/1096-brace-expansion-ii/solution_1.java), [`solution_2.java`](./problems/1096-brace-expansion-ii/solution_2.java) |
 | 1140 | [Stone Game II](./problems/1140-stone-game-ii) | 🟡 Medium | [`solution_1.java`](./problems/1140-stone-game-ii/solution_1.java), [`solution_2.java`](./problems/1140-stone-game-ii/solution_2.java) |
-| 1190 | [Reverse Substrings Between Each Pair of Parentheses](./problems/1190-reverse-substrings-between-each-pair-of-parentheses) | 🟡 Medium | [`solution_1.java`](./problems/1190-reverse-substrings-between-each-pair-of-parentheses/solution_1.java) |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](./problems/1190-reverse-substrings-between-each-pair-of-parentheses) | 🟡 Medium | [`solution_1.java`](./problems/1190-reverse-substrings-between-each-pair-of-parentheses/solution_1.java), [`solution_2.java`](./problems/1190-reverse-substrings-between-each-pair-of-parentheses/solution_2.java) |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](./problems/1365-how-many-numbers-are-smaller-than-the-current-number) | 🟢 Easy | [`solution_1.java`](./problems/1365-how-many-numbers-are-smaller-than-the-current-number/solution_1.java), [`solution_2.java`](./problems/1365-how-many-numbers-are-smaller-than-the-current-number/solution_2.java) |
 | 1386 | [Cinema Seat Allocation](./problems/1386-cinema-seat-allocation) | 🟡 Medium | [`solution_1.java`](./problems/1386-cinema-seat-allocation/solution_1.java), [`solution_2.java`](./problems/1386-cinema-seat-allocation/solution_2.java) |
 | 1401 | [Circle and Rectangle Overlapping](./problems/1401-circle-and-rectangle-overlapping) | 🟡 Medium | [`solution_1.java`](./problems/1401-circle-and-rectangle-overlapping/solution_1.java) |
