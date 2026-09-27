@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #1190: Reverse Substrings Between Each Pair of Parentheses
  * URL: https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
- * Solution #1 (java)
+ * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 8 ms
- * Memory: 42.9 MB
- * Submission Date: 2026-09-27 02:09:53 UTC
+ * Runtime: 8
+ * Memory: 42864000
+ * Submission Date: 2026-09-27 02:09:51 UTC
  * Submission ID: 2154451965
  */
 
