@@ -8,4 +8,3 @@
 | # | File | Language | Runtime | Memory | Submitted At |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [`solution_1.java`](./solution_1.java) | Java | 8 | 42864000 | 2026-09-27 02:09 |
-| 2 | [`solution_2.java`](./solution_2.java) | Java | 1 | 42948000 | 2026-09-27 02:10 |
