@@ -3,9 +3,9 @@
  * URL: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
  * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 0 ms
+ * Runtime: 0
  * Memory: 42664000
- * Submission Date: 2026-09-28 00:39:44 UTC
+ * Submission Date: 2026-09-28 00:39:32 UTC
  * Submission ID: 2155433953
  */
 
