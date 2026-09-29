@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #2267:  Check if There Is a Valid Parentheses String Path
  * URL: https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/
- * Solution #2 (java)
+ * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 3 ms
- * Memory: 47.2 MB
- * Submission Date: 2026-09-29 03:19:22 UTC
+ * Runtime: 3
+ * Memory: 47168000
+ * Submission Date: 2026-09-29 03:19:17 UTC
  * Submission ID: 2156588191
  */
 
