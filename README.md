@@ -4,7 +4,7 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
 [![Total Solved](https://img.shields.io/badge/Problems%20Solved-108-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-154-brightgreen?style=for-the-badge)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-155-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-44-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-44-ffc107?style=flat-square)]()
@@ -97,7 +97,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 2091 | [Removing Minimum and Maximum From Array](./problems/2091-removing-minimum-and-maximum-from-array) | 🟡 Medium | [`solution_1.java`](./problems/2091-removing-minimum-and-maximum-from-array/solution_1.java), [`solution_2.java`](./problems/2091-removing-minimum-and-maximum-from-array/solution_2.java) |
 | 2213 | [Longest Substring of One Repeating Character](./problems/2213-longest-substring-of-one-repeating-character) | 🔴 Hard | [`solution_1.java`](./problems/2213-longest-substring-of-one-repeating-character/solution_1.java) |
 | 2265 | [Count Nodes Equal to Average of Subtree](./problems/2265-count-nodes-equal-to-average-of-subtree) | 🟡 Medium | [`solution_1.java`](./problems/2265-count-nodes-equal-to-average-of-subtree/solution_1.java), [`solution_2.java`](./problems/2265-count-nodes-equal-to-average-of-subtree/solution_2.java) |
-| 2267 | [ Check if There Is a Valid Parentheses String Path](./problems/2267-check-if-there-is-a-valid-parentheses-string-path) | 🔴 Hard | [`solution_1.java`](./problems/2267-check-if-there-is-a-valid-parentheses-string-path/solution_1.java) |
+| 2267 | [ Check if There Is a Valid Parentheses String Path](./problems/2267-check-if-there-is-a-valid-parentheses-string-path) | 🔴 Hard | [`solution_1.java`](./problems/2267-check-if-there-is-a-valid-parentheses-string-path/solution_1.java), [`solution_2.java`](./problems/2267-check-if-there-is-a-valid-parentheses-string-path/solution_2.java) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./problems/2472-maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 Hard | [`solution_1.java`](./problems/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution_1.java), [`solution_2.java`](./problems/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution_2.java) |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string) | 🟡 Medium | [`solution_1.java`](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string/solution_1.java), [`solution_2.java`](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string/solution_2.java) |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements) | 🟡 Medium | [`solution_1.java`](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements/solution_1.java), [`solution_2.java`](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements/solution_2.java) |
