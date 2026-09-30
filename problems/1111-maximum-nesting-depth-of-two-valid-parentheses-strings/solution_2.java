@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #1111: Maximum Nesting Depth of Two Valid Parentheses Strings
  * URL: https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/
- * Solution #2 (java)
+ * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 2 ms
- * Memory: 45.6 MB
- * Submission Date: 2026-09-30 00:39:49 UTC
+ * Runtime: 2
+ * Memory: 45592000
+ * Submission Date: 2026-09-30 00:39:44 UTC
  * Submission ID: 2157645692
  */
 
