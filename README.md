@@ -3,11 +3,11 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-108-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-155-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-109-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-156-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-44-28a745?style=flat-square)]()
-[![Medium](https://img.shields.io/badge/Medium-44-ffc107?style=flat-square)]()
+[![Medium](https://img.shields.io/badge/Medium-45-ffc107?style=flat-square)]()
 [![Hard](https://img.shields.io/badge/Hard-20-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
@@ -68,6 +68,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 877 | [Stone Game](./problems/0877-stone-game) | 🟡 Medium | [`solution_1.java`](./problems/0877-stone-game/solution_1.java), [`solution_2.java`](./problems/0877-stone-game/solution_2.java), [`solution_3.java`](./problems/0877-stone-game/solution_3.java) |
 | 940 | [Distinct Subsequences II](./problems/0940-distinct-subsequences-ii) | 🔴 Hard | [`solution_1.java`](./problems/0940-distinct-subsequences-ii/solution_1.java) |
 | 1096 | [Brace Expansion II](./problems/1096-brace-expansion-ii) | 🔴 Hard | [`solution_1.java`](./problems/1096-brace-expansion-ii/solution_1.java), [`solution_2.java`](./problems/1096-brace-expansion-ii/solution_2.java) |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./problems/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 Medium | [`solution_1.java`](./problems/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/solution_1.java) |
 | 1140 | [Stone Game II](./problems/1140-stone-game-ii) | 🟡 Medium | [`solution_1.java`](./problems/1140-stone-game-ii/solution_1.java), [`solution_2.java`](./problems/1140-stone-game-ii/solution_2.java) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./problems/1190-reverse-substrings-between-each-pair-of-parentheses) | 🟡 Medium | [`solution_1.java`](./problems/1190-reverse-substrings-between-each-pair-of-parentheses/solution_1.java), [`solution_2.java`](./problems/1190-reverse-substrings-between-each-pair-of-parentheses/solution_2.java) |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](./problems/1365-how-many-numbers-are-smaller-than-the-current-number) | 🟢 Easy | [`solution_1.java`](./problems/1365-how-many-numbers-are-smaller-than-the-current-number/solution_1.java), [`solution_2.java`](./problems/1365-how-many-numbers-are-smaller-than-the-current-number/solution_2.java) |
