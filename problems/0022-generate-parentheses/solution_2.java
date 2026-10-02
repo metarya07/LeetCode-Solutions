@@ -3,9 +3,9 @@
  * URL: https://leetcode.com/problems/generate-parentheses/
  * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 0 ms
+ * Runtime: 0
  * Memory: 43844000
- * Submission Date: 2026-10-02 00:59:58 UTC
+ * Submission Date: 2026-10-02 00:59:36 UTC
  * Submission ID: 2159686642
  */
 
