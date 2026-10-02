@@ -4,7 +4,7 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
 [![Total Solved](https://img.shields.io/badge/Problems%20Solved-110-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-158-brightgreen?style=for-the-badge)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-159-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-44-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-46-ffc107?style=flat-square)]()
@@ -35,7 +35,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 13 | [Roman to Integer](./problems/0013-roman-to-integer) | 🟢 Easy | [`solution_1.java`](./problems/0013-roman-to-integer/solution_1.java) |
 | 14 | [Longest Common Prefix](./problems/0014-longest-common-prefix) | 🟢 Easy | [`solution_1.java`](./problems/0014-longest-common-prefix/solution_1.java) |
 | 20 | [Valid Parentheses](./problems/0020-valid-parentheses) | 🟢 Easy | [`solution_1.java`](./problems/0020-valid-parentheses/solution_1.java) |
-| 22 | [Generate Parentheses](./problems/0022-generate-parentheses) | 🟡 Medium | [`solution_1.java`](./problems/0022-generate-parentheses/solution_1.java) |
+| 22 | [Generate Parentheses](./problems/0022-generate-parentheses) | 🟡 Medium | [`solution_1.java`](./problems/0022-generate-parentheses/solution_1.java), [`solution_2.java`](./problems/0022-generate-parentheses/solution_2.java) |
 | 26 | [Remove Duplicates from Sorted Array](./problems/0026-remove-duplicates-from-sorted-array) | 🟢 Easy | [`solution_1.java`](./problems/0026-remove-duplicates-from-sorted-array/solution_1.java) |
 | 27 | [Remove Element](./problems/0027-remove-element) | 🟢 Easy | [`solution_1.java`](./problems/0027-remove-element/solution_1.java) |
 | 28 | [Find the Index of the First Occurrence in a String](./problems/0028-find-the-index-of-the-first-occurrence-in-a-string) | 🟢 Easy | [`solution_1.java`](./problems/0028-find-the-index-of-the-first-occurrence-in-a-string/solution_1.java), [`solution_2.java`](./problems/0028-find-the-index-of-the-first-occurrence-in-a-string/solution_2.java), [`solution_3.java`](./problems/0028-find-the-index-of-the-first-occurrence-in-a-string/solution_3.java) |
