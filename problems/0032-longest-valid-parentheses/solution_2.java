@@ -3,9 +3,9 @@
  * URL: https://leetcode.com/problems/longest-valid-parentheses/
  * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 0 ms
+ * Runtime: 0
  * Memory: 44084000
- * Submission Date: 2026-10-03 03:25:44 UTC
+ * Submission Date: 2026-10-03 03:25:19 UTC
  * Submission ID: 2160665930
  */
 
