@@ -3,11 +3,11 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-111-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-161-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-112-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-162-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-44-28a745?style=flat-square)]()
-[![Medium](https://img.shields.io/badge/Medium-46-ffc107?style=flat-square)]()
+[![Medium](https://img.shields.io/badge/Medium-47-ffc107?style=flat-square)]()
 [![Hard](https://img.shields.io/badge/Hard-21-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
@@ -64,6 +64,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 628 | [Maximum Product of Three Numbers](./problems/0628-maximum-product-of-three-numbers) | 🟢 Easy | [`solution_1.java`](./problems/0628-maximum-product-of-three-numbers/solution_1.java) |
 | 636 | [Exclusive Time of Functions](./problems/0636-exclusive-time-of-functions) | 🟡 Medium | [`solution_1.java`](./problems/0636-exclusive-time-of-functions/solution_1.java) |
 | 645 | [Set Mismatch](./problems/0645-set-mismatch) | 🟢 Easy | [`solution_1.java`](./problems/0645-set-mismatch/solution_1.java) |
+| 678 | [Valid Parenthesis String](./problems/0678-valid-parenthesis-string) | 🟡 Medium | [`solution_1.java`](./problems/0678-valid-parenthesis-string/solution_1.java) |
 | 739 | [Daily Temperatures](./problems/0739-daily-temperatures) | 🟡 Medium | [`solution_1.java`](./problems/0739-daily-temperatures/solution_1.java) |
 | 835 | [Image Overlap](./problems/0835-image-overlap) | 🟡 Medium | [`solution_1.java`](./problems/0835-image-overlap/solution_1.java), [`solution_2.java`](./problems/0835-image-overlap/solution_2.java) |
 | 836 | [Rectangle Overlap](./problems/0836-rectangle-overlap) | 🟢 Easy | [`solution_1.java`](./problems/0836-rectangle-overlap/solution_1.java), [`solution_2.java`](./problems/0836-rectangle-overlap/solution_2.java) |
