@@ -3,9 +3,9 @@
  * URL: https://leetcode.com/problems/valid-parenthesis-string/
  * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 0 ms
+ * Runtime: 0
  * Memory: 42752000
- * Submission Date: 2026-10-04 03:54:46 UTC
+ * Submission Date: 2026-10-04 03:54:27 UTC
  * Submission ID: 2161691558
  */
 
