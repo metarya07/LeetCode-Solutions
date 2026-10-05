@@ -3,9 +3,9 @@
  * URL: https://leetcode.com/problems/score-of-parentheses/
  * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 0 ms
+ * Runtime: 0
  * Memory: 42264000
- * Submission Date: 2026-10-05 00:04:52 UTC
+ * Submission Date: 2026-10-05 00:04:39 UTC
  * Submission ID: 2162583999
  */
 
