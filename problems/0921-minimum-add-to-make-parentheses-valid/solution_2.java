@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #921: Minimum Add to Make Parentheses Valid
  * URL: https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
- * Solution #2 (java)
+ * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 2 ms
- * Memory: 42.7 MB
- * Submission Date: 2026-10-06 01:29:39 UTC
+ * Runtime: 2
+ * Memory: 42656000
+ * Submission Date: 2026-10-06 01:29:34 UTC
  * Submission ID: 2163683964
  */
 
