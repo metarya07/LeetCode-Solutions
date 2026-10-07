@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #301: Remove Invalid Parentheses
  * URL: https://leetcode.com/problems/remove-invalid-parentheses/
- * Solution #2 (java)
+ * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 0 ms
- * Memory: 43.9 MB
- * Submission Date: 2026-10-07 03:12:18 UTC
+ * Runtime: 0
+ * Memory: 43872000
+ * Submission Date: 2026-10-07 03:12:14 UTC
  * Submission ID: 2164833243
  */
 
