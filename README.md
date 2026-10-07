@@ -4,7 +4,7 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
 [![Total Solved](https://img.shields.io/badge/Problems%20Solved-115-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-167-brightgreen?style=for-the-badge)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-168-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-44-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-49-ffc107?style=flat-square)]()
@@ -57,7 +57,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 238 | [Product of Array Except Self](./problems/0238-product-of-array-except-self) | 🟡 Medium | [`solution_1.java`](./problems/0238-product-of-array-except-self/solution_1.java) |
 | 242 | [Valid Anagram](./problems/0242-valid-anagram) | 🟢 Easy | [`solution_1.java`](./problems/0242-valid-anagram/solution_1.java) |
 | 283 | [Move Zeroes](./problems/0283-move-zeroes) | 🟢 Easy | [`solution_1.java`](./problems/0283-move-zeroes/solution_1.java) |
-| 301 | [Remove Invalid Parentheses](./problems/0301-remove-invalid-parentheses) | 🔴 Hard | [`solution_1.java`](./problems/0301-remove-invalid-parentheses/solution_1.java) |
+| 301 | [Remove Invalid Parentheses](./problems/0301-remove-invalid-parentheses) | 🔴 Hard | [`solution_1.java`](./problems/0301-remove-invalid-parentheses/solution_1.java), [`solution_2.java`](./problems/0301-remove-invalid-parentheses/solution_2.java) |
 | 448 | [Find All Numbers Disappeared in an Array](./problems/0448-find-all-numbers-disappeared-in-an-array) | 🟢 Easy | [`solution_1.java`](./problems/0448-find-all-numbers-disappeared-in-an-array/solution_1.java) |
 | 485 | [Max Consecutive Ones](./problems/0485-max-consecutive-ones) | 🟢 Easy | [`solution_1.java`](./problems/0485-max-consecutive-ones/solution_1.java) |
 | 486 | [Predict the Winner](./problems/0486-predict-the-winner) | 🟡 Medium | [`solution_1.java`](./problems/0486-predict-the-winner/solution_1.java) |
