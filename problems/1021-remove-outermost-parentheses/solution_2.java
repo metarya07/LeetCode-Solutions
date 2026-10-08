@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #1021: Remove Outermost Parentheses
  * URL: https://leetcode.com/problems/remove-outermost-parentheses/
- * Solution #2 (java)
+ * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 1 ms
- * Memory: 43.6 MB
- * Submission Date: 2026-10-08 01:42:05 UTC
+ * Runtime: 1
+ * Memory: 43636000
+ * Submission Date: 2026-10-08 01:41:59 UTC
  * Submission ID: 2165835213
  */
 
