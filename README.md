@@ -4,7 +4,7 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
 [![Total Solved](https://img.shields.io/badge/Problems%20Solved-116-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-169-brightgreen?style=for-the-badge)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-170-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-45-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-49-ffc107?style=flat-square)]()
@@ -73,7 +73,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 877 | [Stone Game](./problems/0877-stone-game) | 🟡 Medium | [`solution_1.java`](./problems/0877-stone-game/solution_1.java), [`solution_2.java`](./problems/0877-stone-game/solution_2.java), [`solution_3.java`](./problems/0877-stone-game/solution_3.java) |
 | 921 | [Minimum Add to Make Parentheses Valid](./problems/0921-minimum-add-to-make-parentheses-valid) | 🟡 Medium | [`solution_1.java`](./problems/0921-minimum-add-to-make-parentheses-valid/solution_1.java), [`solution_2.java`](./problems/0921-minimum-add-to-make-parentheses-valid/solution_2.java) |
 | 940 | [Distinct Subsequences II](./problems/0940-distinct-subsequences-ii) | 🔴 Hard | [`solution_1.java`](./problems/0940-distinct-subsequences-ii/solution_1.java) |
-| 1021 | [Remove Outermost Parentheses](./problems/1021-remove-outermost-parentheses) | 🟢 Easy | [`solution_1.java`](./problems/1021-remove-outermost-parentheses/solution_1.java) |
+| 1021 | [Remove Outermost Parentheses](./problems/1021-remove-outermost-parentheses) | 🟢 Easy | [`solution_1.java`](./problems/1021-remove-outermost-parentheses/solution_1.java), [`solution_2.java`](./problems/1021-remove-outermost-parentheses/solution_2.java) |
 | 1096 | [Brace Expansion II](./problems/1096-brace-expansion-ii) | 🔴 Hard | [`solution_1.java`](./problems/1096-brace-expansion-ii/solution_1.java), [`solution_2.java`](./problems/1096-brace-expansion-ii/solution_2.java) |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./problems/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | 🟡 Medium | [`solution_1.java`](./problems/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/solution_1.java), [`solution_2.java`](./problems/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/solution_2.java) |
 | 1140 | [Stone Game II](./problems/1140-stone-game-ii) | 🟡 Medium | [`solution_1.java`](./problems/1140-stone-game-ii/solution_1.java), [`solution_2.java`](./problems/1140-stone-game-ii/solution_2.java) |
