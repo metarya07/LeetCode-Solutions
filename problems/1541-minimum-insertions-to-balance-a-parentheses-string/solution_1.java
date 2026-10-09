@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #1541: Minimum Insertions to Balance a Parentheses String
  * URL: https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
- * Solution #1 (java)
+ * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 10 ms
- * Memory: 47.3 MB
- * Submission Date: 2026-10-09 02:50:47 UTC
+ * Runtime: 10
+ * Memory: 47256000
+ * Submission Date: 2026-10-09 02:50:42 UTC
  * Submission ID: 2166856252
  */
 
