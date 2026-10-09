@@ -4,7 +4,7 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
 [![Total Solved](https://img.shields.io/badge/Problems%20Solved-117-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-171-brightgreen?style=for-the-badge)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-172-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-45-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-50-ffc107?style=flat-square)]()
@@ -89,7 +89,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](./problems/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | [`solution_1.java`](./problems/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution_1.java), [`solution_2.java`](./problems/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution_2.java) |
 | 1510 | [Stone Game IV](./problems/1510-stone-game-iv) | 🔴 Hard | [`solution_1.java`](./problems/1510-stone-game-iv/solution_1.java) |
 | 1520 | [Maximum Number of Non-Overlapping Substrings](./problems/1520-maximum-number-of-non-overlapping-substrings) | 🔴 Hard | [`solution_1.java`](./problems/1520-maximum-number-of-non-overlapping-substrings/solution_1.java), [`solution_2.java`](./problems/1520-maximum-number-of-non-overlapping-substrings/solution_2.java) |
-| 1541 | [Minimum Insertions to Balance a Parentheses String](./problems/1541-minimum-insertions-to-balance-a-parentheses-string) | 🟡 Medium | [`solution_1.java`](./problems/1541-minimum-insertions-to-balance-a-parentheses-string/solution_1.java) |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](./problems/1541-minimum-insertions-to-balance-a-parentheses-string) | 🟡 Medium | [`solution_1.java`](./problems/1541-minimum-insertions-to-balance-a-parentheses-string/solution_1.java), [`solution_2.java`](./problems/1541-minimum-insertions-to-balance-a-parentheses-string/solution_2.java) |
 | 1563 | [Stone Game V](./problems/1563-stone-game-v) | 🔴 Hard | [`solution_1.java`](./problems/1563-stone-game-v/solution_1.java), [`solution_2.java`](./problems/1563-stone-game-v/solution_2.java) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./problems/1614-maximum-nesting-depth-of-the-parentheses) | 🟢 Easy | [`solution_1.java`](./problems/1614-maximum-nesting-depth-of-the-parentheses/solution_1.java), [`solution_2.java`](./problems/1614-maximum-nesting-depth-of-the-parentheses/solution_2.java) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](./problems/1621-number-of-sets-of-k-non-overlapping-line-segments) | 🟡 Medium | [`solution_1.java`](./problems/1621-number-of-sets-of-k-non-overlapping-line-segments/solution_1.java) |
