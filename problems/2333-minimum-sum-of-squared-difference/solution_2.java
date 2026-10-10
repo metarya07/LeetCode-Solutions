@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #2333: Minimum Sum of Squared Difference
  * URL: https://leetcode.com/problems/minimum-sum-of-squared-difference/
- * Solution #2 (java)
+ * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 7 ms
- * Memory: 112.5 MB
- * Submission Date: 2026-10-10 01:55:12 UTC
+ * Runtime: 7
+ * Memory: 112456000
+ * Submission Date: 2026-10-10 01:55:05 UTC
  * Submission ID: 2167746607
  */
 
