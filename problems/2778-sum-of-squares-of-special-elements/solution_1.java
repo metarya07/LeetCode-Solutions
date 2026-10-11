@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #2778: Sum of Squares of Special Elements 
  * URL: https://leetcode.com/problems/sum-of-squares-of-special-elements/
- * Solution #1 (java)
+ * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 1 ms
- * Memory: 46.3 MB
- * Submission Date: 2026-10-11 01:00:53 UTC
+ * Runtime: 1
+ * Memory: 46340000
+ * Submission Date: 2026-10-11 01:00:46 UTC
  * Submission ID: 2168710101
  */
 
