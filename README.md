@@ -4,7 +4,7 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
 [![Total Solved](https://img.shields.io/badge/Problems%20Solved-120-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-176-brightgreen?style=for-the-badge)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-177-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-46-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-51-ffc107?style=flat-square)]()
@@ -110,7 +110,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 2333 | [Minimum Sum of Squared Difference](./problems/2333-minimum-sum-of-squared-difference) | 🟡 Medium | [`solution_1.java`](./problems/2333-minimum-sum-of-squared-difference/solution_1.java), [`solution_2.java`](./problems/2333-minimum-sum-of-squared-difference/solution_2.java) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./problems/2472-maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 Hard | [`solution_1.java`](./problems/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution_1.java), [`solution_2.java`](./problems/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution_2.java) |
 | 2778 | [Sum of Squares of Special Elements ](./problems/2778-sum-of-squares-of-special-elements) | 🟢 Easy | [`solution_1.java`](./problems/2778-sum-of-squares-of-special-elements/solution_1.java) |
-| 2897 | [Apply Operations on Array to Maximize Sum of Squares](./problems/2897-apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | [`solution_1.java`](./problems/2897-apply-operations-on-array-to-maximize-sum-of-squares/solution_1.java) |
+| 2897 | [Apply Operations on Array to Maximize Sum of Squares](./problems/2897-apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | [`solution_1.java`](./problems/2897-apply-operations-on-array-to-maximize-sum-of-squares/solution_1.java), [`solution_2.java`](./problems/2897-apply-operations-on-array-to-maximize-sum-of-squares/solution_2.java) |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string) | 🟡 Medium | [`solution_1.java`](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string/solution_1.java), [`solution_2.java`](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string/solution_2.java) |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements) | 🟡 Medium | [`solution_1.java`](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements/solution_1.java), [`solution_2.java`](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements/solution_2.java) |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./problems/2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 Medium | [`solution_1.java`](./problems/2958-length-of-longest-subarray-with-at-most-k-frequency/solution_1.java), [`solution_2.java`](./problems/2958-length-of-longest-subarray-with-at-most-k-frequency/solution_2.java) |
