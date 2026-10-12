@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #2897: Apply Operations on Array to Maximize Sum of Squares
  * URL: https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/
- * Solution #2 (java)
+ * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 32 ms
- * Memory: 80.4 MB
- * Submission Date: 2026-10-12 01:13:01 UTC
+ * Runtime: 32
+ * Memory: 80408000
+ * Submission Date: 2026-10-12 01:12:56 UTC
  * Submission ID: 2169736160
  */
 
