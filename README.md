@@ -4,7 +4,7 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
 [![Total Solved](https://img.shields.io/badge/Problems%20Solved-121-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-178-brightgreen?style=for-the-badge)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-179-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-46-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-52-ffc107?style=flat-square)]()
@@ -138,7 +138,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./problems/3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 Medium | [`solution_1.java`](./problems/3702-longest-subsequence-with-non-zero-bitwise-xor/solution_1.java) |
 | 3718 | [Smallest Missing Multiple of K](./problems/3718-smallest-missing-multiple-of-k) | 🟢 Easy | [`solution_1.java`](./problems/3718-smallest-missing-multiple-of-k/solution_1.java), [`solution_2.java`](./problems/3718-smallest-missing-multiple-of-k/solution_2.java) |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](./problems/3720-lexicographically-smallest-permutation-greater-than-target) | 🟡 Medium | [`solution_1.java`](./problems/3720-lexicographically-smallest-permutation-greater-than-target/solution_1.java), [`solution_2.java`](./problems/3720-lexicographically-smallest-permutation-greater-than-target/solution_2.java), [`solution_3.java`](./problems/3720-lexicographically-smallest-permutation-greater-than-target/solution_3.java) |
-| 3727 | [Maximum Alternating Sum of Squares](./problems/3727-maximum-alternating-sum-of-squares) | 🟡 Medium | [`solution_1.java`](./problems/3727-maximum-alternating-sum-of-squares/solution_1.java) |
+| 3727 | [Maximum Alternating Sum of Squares](./problems/3727-maximum-alternating-sum-of-squares) | 🟡 Medium | [`solution_1.java`](./problems/3727-maximum-alternating-sum-of-squares/solution_1.java), [`solution_2.java`](./problems/3727-maximum-alternating-sum-of-squares/solution_2.java) |
 | 3731 | [Find Missing Elements](./problems/3731-find-missing-elements) | 🟢 Easy | [`solution_1.java`](./problems/3731-find-missing-elements/solution_1.java) |
 | 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) | 🔴 Hard | [`solution_1.java`](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution_1.java), [`solution_2.java`](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution_2.java), [`solution_3.java`](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution_3.java) |
 | 3870 | [Count Commas in Range](./problems/3870-count-commas-in-range) | 🟢 Easy | [`solution_1.java`](./problems/3870-count-commas-in-range/solution_1.java) |
