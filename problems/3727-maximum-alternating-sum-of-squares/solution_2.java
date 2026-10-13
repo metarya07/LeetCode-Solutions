@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #3727: Maximum Alternating Sum of Squares
  * URL: https://leetcode.com/problems/maximum-alternating-sum-of-squares/
- * Solution #2 (java)
+ * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 8 ms
- * Memory: 129.6 MB
- * Submission Date: 2026-10-13 03:24:01 UTC
+ * Runtime: 8
+ * Memory: 129564000
+ * Submission Date: 2026-10-13 03:23:55 UTC
  * Submission ID: 2170743323
  */
 
