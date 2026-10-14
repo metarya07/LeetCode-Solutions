@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #3723: Maximize Sum of Squares of Digits
  * URL: https://leetcode.com/problems/maximize-sum-of-squares-of-digits/
- * Solution #2 (java)
+ * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 9 ms
- * Memory: 46.8 MB
- * Submission Date: 2026-10-14 01:13:55 UTC
+ * Runtime: 9
+ * Memory: 46792000
+ * Submission Date: 2026-10-14 01:13:48 UTC
  * Submission ID: 2171674880
  */
 
