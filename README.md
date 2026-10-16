@@ -4,7 +4,7 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
 [![Total Solved](https://img.shields.io/badge/Problems%20Solved-124-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-184-brightgreen?style=for-the-badge)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-185-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-47-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-53-ffc107?style=flat-square)]()
@@ -113,7 +113,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](./problems/2897-apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | [`solution_1.java`](./problems/2897-apply-operations-on-array-to-maximize-sum-of-squares/solution_1.java), [`solution_2.java`](./problems/2897-apply-operations-on-array-to-maximize-sum-of-squares/solution_2.java) |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string) | 🟡 Medium | [`solution_1.java`](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string/solution_1.java), [`solution_2.java`](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string/solution_2.java) |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](./problems/2913-subarrays-distinct-element-sum-of-squares-i) | 🟢 Easy | [`solution_1.java`](./problems/2913-subarrays-distinct-element-sum-of-squares-i/solution_1.java), [`solution_2.java`](./problems/2913-subarrays-distinct-element-sum-of-squares-i/solution_2.java) |
-| 2916 | [Subarrays Distinct Element Sum of Squares II](./problems/2916-subarrays-distinct-element-sum-of-squares-ii) | 🔴 Hard | [`solution_1.java`](./problems/2916-subarrays-distinct-element-sum-of-squares-ii/solution_1.java) |
+| 2916 | [Subarrays Distinct Element Sum of Squares II](./problems/2916-subarrays-distinct-element-sum-of-squares-ii) | 🔴 Hard | [`solution_1.java`](./problems/2916-subarrays-distinct-element-sum-of-squares-ii/solution_1.java), [`solution_2.java`](./problems/2916-subarrays-distinct-element-sum-of-squares-ii/solution_2.java) |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements) | 🟡 Medium | [`solution_1.java`](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements/solution_1.java), [`solution_2.java`](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements/solution_2.java) |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./problems/2958-length-of-longest-subarray-with-at-most-k-frequency) | 🟡 Medium | [`solution_1.java`](./problems/2958-length-of-longest-subarray-with-at-most-k-frequency/solution_1.java), [`solution_2.java`](./problems/2958-length-of-longest-subarray-with-at-most-k-frequency/solution_2.java) |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./problems/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) | 🟢 Easy | [`solution_1.java`](./problems/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/solution_1.java) |
