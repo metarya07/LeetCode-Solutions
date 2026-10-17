@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #3551: Minimum Swaps to Sort by Digit Sum
  * URL: https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/
- * Solution #1 (java)
+ * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 287 ms
- * Memory: 118.8 MB
- * Submission Date: 2026-10-17 07:28:43 UTC
+ * Runtime: 287
+ * Memory: 118812000
+ * Submission Date: 2026-10-17 07:28:38 UTC
  * Submission ID: 2174379567
  */
 
