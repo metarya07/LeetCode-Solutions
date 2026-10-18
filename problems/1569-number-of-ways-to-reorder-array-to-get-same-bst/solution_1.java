@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #1569: Number of Ways to Reorder Array to Get Same BST
  * URL: https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
- * Solution #1 (java)
+ * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 75 ms
- * Memory: 176.1 MB
- * Submission Date: 2026-10-18 03:45:41 UTC
+ * Runtime: 75
+ * Memory: 176096000
+ * Submission Date: 2026-10-18 03:45:36 UTC
  * Submission ID: 2175067265
  */
 
