@@ -3,12 +3,12 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-125-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-186-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-126-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-187-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-47-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-54-ffc107?style=flat-square)]()
-[![Hard](https://img.shields.io/badge/Hard-24-dc3545?style=flat-square)]()
+[![Hard](https://img.shields.io/badge/Hard-25-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
 An automated repository synchronizing all my LeetCode submissions with real-time browser push, multi-solution versioning, and authentic historical timestamps.
@@ -91,6 +91,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 1520 | [Maximum Number of Non-Overlapping Substrings](./problems/1520-maximum-number-of-non-overlapping-substrings) | 🔴 Hard | [`solution_1.java`](./problems/1520-maximum-number-of-non-overlapping-substrings/solution_1.java), [`solution_2.java`](./problems/1520-maximum-number-of-non-overlapping-substrings/solution_2.java) |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](./problems/1541-minimum-insertions-to-balance-a-parentheses-string) | 🟡 Medium | [`solution_1.java`](./problems/1541-minimum-insertions-to-balance-a-parentheses-string/solution_1.java), [`solution_2.java`](./problems/1541-minimum-insertions-to-balance-a-parentheses-string/solution_2.java) |
 | 1563 | [Stone Game V](./problems/1563-stone-game-v) | 🔴 Hard | [`solution_1.java`](./problems/1563-stone-game-v/solution_1.java), [`solution_2.java`](./problems/1563-stone-game-v/solution_2.java) |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](./problems/1569-number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | [`solution_1.java`](./problems/1569-number-of-ways-to-reorder-array-to-get-same-bst/solution_1.java) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./problems/1614-maximum-nesting-depth-of-the-parentheses) | 🟢 Easy | [`solution_1.java`](./problems/1614-maximum-nesting-depth-of-the-parentheses/solution_1.java), [`solution_2.java`](./problems/1614-maximum-nesting-depth-of-the-parentheses/solution_2.java) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](./problems/1621-number-of-sets-of-k-non-overlapping-line-segments) | 🟡 Medium | [`solution_1.java`](./problems/1621-number-of-sets-of-k-non-overlapping-line-segments/solution_1.java) |
 | 1658 | [Minimum Operations to Reduce X to Zero](./problems/1658-minimum-operations-to-reduce-x-to-zero) | 🟡 Medium | [`solution_1.java`](./problems/1658-minimum-operations-to-reduce-x-to-zero/solution_1.java), [`solution_2.java`](./problems/1658-minimum-operations-to-reduce-x-to-zero/solution_2.java), [`solution_3.java`](./problems/1658-minimum-operations-to-reduce-x-to-zero/solution_3.java) |
