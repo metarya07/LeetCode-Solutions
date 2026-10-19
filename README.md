@@ -4,7 +4,7 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
 [![Total Solved](https://img.shields.io/badge/Problems%20Solved-127-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-189-brightgreen?style=for-the-badge)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-190-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-48-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-54-ffc107?style=flat-square)]()
@@ -104,7 +104,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 2029 | [Stone Game IX](./problems/2029-stone-game-ix) | 🟡 Medium | [`solution_1.java`](./problems/2029-stone-game-ix/solution_1.java) |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./problems/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) | 🟡 Medium | [`solution_1.java`](./problems/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/solution_1.java), [`solution_2.java`](./problems/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/solution_2.java) |
 | 2073 | [Time Needed to Buy Tickets](./problems/2073-time-needed-to-buy-tickets) | 🟢 Easy | [`solution_1.java`](./problems/2073-time-needed-to-buy-tickets/solution_1.java) |
-| 2089 | [Find Target Indices After Sorting Array](./problems/2089-find-target-indices-after-sorting-array) | 🟢 Easy | [`solution_1.java`](./problems/2089-find-target-indices-after-sorting-array/solution_1.java) |
+| 2089 | [Find Target Indices After Sorting Array](./problems/2089-find-target-indices-after-sorting-array) | 🟢 Easy | [`solution_1.java`](./problems/2089-find-target-indices-after-sorting-array/solution_1.java), [`solution_2.java`](./problems/2089-find-target-indices-after-sorting-array/solution_2.java) |
 | 2091 | [Removing Minimum and Maximum From Array](./problems/2091-removing-minimum-and-maximum-from-array) | 🟡 Medium | [`solution_1.java`](./problems/2091-removing-minimum-and-maximum-from-array/solution_1.java), [`solution_2.java`](./problems/2091-removing-minimum-and-maximum-from-array/solution_2.java) |
 | 2213 | [Longest Substring of One Repeating Character](./problems/2213-longest-substring-of-one-repeating-character) | 🔴 Hard | [`solution_1.java`](./problems/2213-longest-substring-of-one-repeating-character/solution_1.java) |
 | 2265 | [Count Nodes Equal to Average of Subtree](./problems/2265-count-nodes-equal-to-average-of-subtree) | 🟡 Medium | [`solution_1.java`](./problems/2265-count-nodes-equal-to-average-of-subtree/solution_1.java), [`solution_2.java`](./problems/2265-count-nodes-equal-to-average-of-subtree/solution_2.java) |
