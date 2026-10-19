@@ -1,11 +1,10 @@
 # 2089. Find Target Indices After Sorting Array
 
-**Difficulty:** Easy  
+**Difficulty:** 🟢 **Easy**  
 **Problem Link:** [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)
 
 ## Solutions
 
 | # | File | Language | Runtime | Memory | Submitted At |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | [`solution_1.java`](./solution_1.java) | Java | 1 | 44336000 | 2026-10-19 |
-| 2 | [`solution_2.java`](./solution_2.java) | Java | 1 | 44084000 | 2026-10-19 |
+| 1 | [`solution_1.java`](./solution_1.java) | Java | 1 | 44336000 | 2026-10-19 03:36 |
