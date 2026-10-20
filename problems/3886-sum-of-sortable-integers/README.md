@@ -1,11 +1,10 @@
 # 3886. Sum of Sortable Integers
 
-**Difficulty:** Hard  
+**Difficulty:** 🔴 **Hard**  
 **Problem Link:** [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/)
 
 ## Solutions
 
 | # | File | Language | Runtime | Memory | Submitted At |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | [`solution_1.java`](./solution_1.java) | Java | 149 | 72820000 | 2026-10-20 |
-| 2 | [`solution_2.java`](./solution_2.java) | Java | 4 | 72592000 | 2026-10-20 |
+| 1 | [`solution_1.java`](./solution_1.java) | Java | 149 | 72820000 | 2026-10-20 01:42 |
