@@ -3,40 +3,37 @@
  * URL: https://leetcode.com/problems/minimum-operations-to-sort-a-string/
  * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 31
- * Memory: 47564000
- * Submission Date: 2026-10-21 04:01:06 UTC
- * Submission ID: 2177571656
+ * Runtime: 9
+ * Memory: 47464000
+ * Submission Date: 2026-10-21 04:00:44 UTC
+ * Submission ID: 2177571796
  */
 
 class Solution {
 
+    boolean isSorted(String s){
+        for(int i=1;i<s.length();i++){
+            if(s.charAt(i) < s.charAt(i-1))return false;
+        }
+        return true;
+    }
+
     public int minOperations(String s) {
         int n = s.length();
-        char mx = 'a',
-            mn = 'z';
-        boolean sorted = true;
-        for (int i = 0; i < n; i++) {
-            mx = (char) Math.max(mx, s.charAt(i));
-            mn = (char) Math.min(mn, s.charAt(i));
-            if (i > 0 && s.charAt(i - 1) > s.charAt(i)) {
-                sorted = false;
-            }
+        if(isSorted(s))return 0;
+        if(n==2)return -1;
+        int[] freq = new int[26];
+        for(int i=0;i<n;i++){
+            freq[s.charAt(i)-'a']++;
         }
-        if (sorted) {
-            return 0;
-        }
-        if (n == 2) {
-            return -1;
-        }
-        if (s.charAt(0) == mn || s.charAt(n - 1) == mx) {
+        int first = 0, last = 25;
+        while(freq[first]==0)first++;
+        while(freq[last]==0)last--;
+        if(s.charAt(0)-'a' == first){
             return 1;
         }
-        for (int i = 1; i < n - 1; i++) {
-            if (s.charAt(i) == mn || s.charAt(i) == mx) {
-                return 2;
-            }
-        }
-        return 3;
+        else if(s.charAt(n-1)-'a' == last)return 1;
+        else if(s.charAt(0)-'a' != last || s.charAt(n-1)-'a' != first || freq[first] > 1 || freq[last] > 1)return 2;
+        else return 3;
     }
 }
