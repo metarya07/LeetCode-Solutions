@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #3942: Minimum Operations to Sort a Permutation
  * URL: https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/
- * Solution #1 (java)
+ * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 4 ms
- * Memory: 94.1 MB
- * Submission Date: 2026-10-22 02:04:45 UTC
+ * Runtime: 4
+ * Memory: 94072000
+ * Submission Date: 2026-10-22 02:04:40 UTC
  * Submission ID: 2178428412
  */
 
