@@ -3,11 +3,11 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-129-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-194-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-130-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-195-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-48-28a745?style=flat-square)]()
-[![Medium](https://img.shields.io/badge/Medium-55-ffc107?style=flat-square)]()
+[![Medium](https://img.shields.io/badge/Medium-56-ffc107?style=flat-square)]()
 [![Hard](https://img.shields.io/badge/Hard-26-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
@@ -155,6 +155,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 3886 | [Sum of Sortable Integers](./problems/3886-sum-of-sortable-integers) | 🔴 Hard | [`solution_1.java`](./problems/3886-sum-of-sortable-integers/solution_1.java), [`solution_2.java`](./problems/3886-sum-of-sortable-integers/solution_2.java) |
 | 3903 | [Smallest Stable Index I](./problems/3903-smallest-stable-index-i) | 🟢 Easy | [`solution_1.java`](./problems/3903-smallest-stable-index-i/solution_1.java) |
 | 3904 | [Smallest Stable Index II](./problems/3904-smallest-stable-index-ii) | 🟡 Medium | [`solution_1.java`](./problems/3904-smallest-stable-index-ii/solution_1.java) |
+| 3942 | [Minimum Operations to Sort a Permutation](./problems/3942-minimum-operations-to-sort-a-permutation) | 🟡 Medium | [`solution_1.java`](./problems/3942-minimum-operations-to-sort-a-permutation/solution_1.java) |
 | 4014 | [Minimum Total Price After Applying Discounts](./problems/4014-minimum-total-price-after-applying-discounts) | 🟡 Medium | [`solution_1.java`](./problems/4014-minimum-total-price-after-applying-discounts/solution_1.java) |
 | 4015 | [Weighted Sum of a Tree](./problems/4015-weighted-sum-of-a-tree) | 🟡 Medium | [`solution_1.java`](./problems/4015-weighted-sum-of-a-tree/solution_1.java) |
 | 4016 | [Maximum Area of Two Non-Overlapping Square Submatrices](./problems/4016-maximum-area-of-two-non-overlapping-square-submatrices) | 🟡 Medium | [`solution_1.java`](./problems/4016-maximum-area-of-two-non-overlapping-square-submatrices/solution_1.java) |
