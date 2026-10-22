@@ -10,3 +10,4 @@
 | 1 | [`solution_1.java`](./solution_1.java) | java | 4 ms | 94.1 MB | 2026-10-22 |
 | 2 | [`solution_2.java`](./solution_2.java) | Java | 3 | 94516000 | 2026-10-22 |
 | 3 | [`solution_3.java`](./solution_3.java) | Java | 3 | 94276000 | 2026-10-22 |
+| 4 | [`solution_4.java`](./solution_4.java) | Java | 2 | 94044000 | 2026-10-22 |
