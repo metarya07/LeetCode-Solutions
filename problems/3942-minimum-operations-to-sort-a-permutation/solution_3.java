@@ -4,16 +4,15 @@
  * Solution #3 (Java)
  * Status: Accepted
  * Runtime: 3
- * Memory: 94276000
- * Submission Date: 2026-10-22 12:18:38 UTC
- * Submission ID: 2178787749
+ * Memory: 94516000
+ * Submission Date: 2026-10-22 12:17:42 UTC
+ * Submission ID: 2178787856
  */
 
 class Solution {
     public int minOperations(int[] nums) {
         int n=nums.length;
         if(n==1)return 0;
-        //check for inc
         int dec=-1;
         for(int i=1;i<n;i++){
             if(nums[i]!=nums[i-1]+1){
