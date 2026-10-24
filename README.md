@@ -3,10 +3,10 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-131-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-200-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-132-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-201-brightgreen?style=for-the-badge)](./problems)
 
-[![Easy](https://img.shields.io/badge/Easy-48-28a745?style=flat-square)]()
+[![Easy](https://img.shields.io/badge/Easy-49-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-57-ffc107?style=flat-square)]()
 [![Hard](https://img.shields.io/badge/Hard-26-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
@@ -110,6 +110,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 2265 | [Count Nodes Equal to Average of Subtree](./problems/2265-count-nodes-equal-to-average-of-subtree) | 🟡 Medium | [`solution_1.java`](./problems/2265-count-nodes-equal-to-average-of-subtree/solution_1.java), [`solution_2.java`](./problems/2265-count-nodes-equal-to-average-of-subtree/solution_2.java) |
 | 2267 | [ Check if There Is a Valid Parentheses String Path](./problems/2267-check-if-there-is-a-valid-parentheses-string-path) | 🔴 Hard | [`solution_1.java`](./problems/2267-check-if-there-is-a-valid-parentheses-string-path/solution_1.java), [`solution_2.java`](./problems/2267-check-if-there-is-a-valid-parentheses-string-path/solution_2.java) |
 | 2333 | [Minimum Sum of Squared Difference](./problems/2333-minimum-sum-of-squared-difference) | 🟡 Medium | [`solution_1.java`](./problems/2333-minimum-sum-of-squared-difference/solution_1.java), [`solution_2.java`](./problems/2333-minimum-sum-of-squared-difference/solution_2.java) |
+| 2409 | [Count Days Spent Together](./problems/2409-count-days-spent-together) | 🟢 Easy | [`solution_1.java`](./problems/2409-count-days-spent-together/solution_1.java) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./problems/2472-maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 Hard | [`solution_1.java`](./problems/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution_1.java), [`solution_2.java`](./problems/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution_2.java) |
 | 2778 | [Sum of Squares of Special Elements ](./problems/2778-sum-of-squares-of-special-elements) | 🟢 Easy | [`solution_1.java`](./problems/2778-sum-of-squares-of-special-elements/solution_1.java) |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](./problems/2897-apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | [`solution_1.java`](./problems/2897-apply-operations-on-array-to-maximize-sum-of-squares/solution_1.java), [`solution_2.java`](./problems/2897-apply-operations-on-array-to-maximize-sum-of-squares/solution_2.java) |
