@@ -3,9 +3,9 @@
  * URL: https://leetcode.com/problems/count-days-spent-together/
  * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 0 ms
+ * Runtime: 0
  * Memory: 42516000
- * Submission Date: 2026-10-24 01:06:44 UTC
+ * Submission Date: 2026-10-24 01:06:30 UTC
  * Submission ID: 2180068377
  */
 
