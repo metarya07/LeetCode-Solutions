@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #3619: Count Islands With Total Value Divisible by K
  * URL: https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/
- * Solution #1 (java)
+ * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 22 ms
- * Memory: 116.4 MB
- * Submission Date: 2026-10-26 01:10:19 UTC
+ * Runtime: 22
+ * Memory: 116396000
+ * Submission Date: 2026-10-26 01:10:15 UTC
  * Submission ID: 2181810394
  */
 
