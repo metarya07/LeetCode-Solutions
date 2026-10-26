@@ -3,11 +3,11 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-133-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-203-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-134-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-204-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-49-28a745?style=flat-square)]()
-[![Medium](https://img.shields.io/badge/Medium-58-ffc107?style=flat-square)]()
+[![Medium](https://img.shields.io/badge/Medium-59-ffc107?style=flat-square)]()
 [![Hard](https://img.shields.io/badge/Hard-26-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
@@ -141,6 +141,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 3550 | [Smallest Index With Digit Sum Equal to Index](./problems/3550-smallest-index-with-digit-sum-equal-to-index) | 🟢 Easy | [`solution_1.java`](./problems/3550-smallest-index-with-digit-sum-equal-to-index/solution_1.java), [`solution_2.java`](./problems/3550-smallest-index-with-digit-sum-equal-to-index/solution_2.java) |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](./problems/3551-minimum-swaps-to-sort-by-digit-sum) | 🟡 Medium | [`solution_1.java`](./problems/3551-minimum-swaps-to-sort-by-digit-sum/solution_1.java) |
 | 3568 | [Minimum Moves to Clean the Classroom](./problems/3568-minimum-moves-to-clean-the-classroom) | 🟡 Medium | [`solution_1.java`](./problems/3568-minimum-moves-to-clean-the-classroom/solution_1.java) |
+| 3619 | [Count Islands With Total Value Divisible by K](./problems/3619-count-islands-with-total-value-divisible-by-k) | 🟡 Medium | [`solution_1.java`](./problems/3619-count-islands-with-total-value-divisible-by-k/solution_1.java) |
 | 3622 | [Check Divisibility by Digit Sum and Product](./problems/3622-check-divisibility-by-digit-sum-and-product) | 🟢 Easy | [`solution_1.java`](./problems/3622-check-divisibility-by-digit-sum-and-product/solution_1.java) |
 | 3644 | [Maximum K to Sort a Permutation](./problems/3644-maximum-k-to-sort-a-permutation) | 🟡 Medium | [`solution_1.java`](./problems/3644-maximum-k-to-sort-a-permutation/solution_1.java), [`solution_2.java`](./problems/3644-maximum-k-to-sort-a-permutation/solution_2.java) |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./problems/3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 Medium | [`solution_1.java`](./problems/3702-longest-subsequence-with-non-zero-bitwise-xor/solution_1.java) |
