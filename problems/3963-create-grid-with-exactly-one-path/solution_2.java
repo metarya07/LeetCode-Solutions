@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #3963: Create Grid With Exactly One Path
  * URL: https://leetcode.com/problems/create-grid-with-exactly-one-path/
- * Solution #2 (java)
+ * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 2 ms
- * Memory: 45.9 MB
- * Submission Date: 2026-10-27 01:03:19 UTC
+ * Runtime: 2
+ * Memory: 45852000
+ * Submission Date: 2026-10-27 01:03:15 UTC
  * Submission ID: 2182674024
  */
 
