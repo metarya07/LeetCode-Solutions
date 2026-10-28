@@ -3,11 +3,11 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-135-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-206-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-136-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-207-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-50-28a745?style=flat-square)]()
-[![Medium](https://img.shields.io/badge/Medium-59-ffc107?style=flat-square)]()
+[![Medium](https://img.shields.io/badge/Medium-60-ffc107?style=flat-square)]()
 [![Hard](https://img.shields.io/badge/Hard-26-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
@@ -156,6 +156,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 3871 | [Count Commas in Range II](./problems/3871-count-commas-in-range-ii) | 🟡 Medium | [`solution_1.java`](./problems/3871-count-commas-in-range-ii/solution_1.java), [`solution_2.java`](./problems/3871-count-commas-in-range-ii/solution_2.java) |
 | 3875 | [Construct Uniform Parity Array I](./problems/3875-construct-uniform-parity-array-i) | 🟢 Easy | [`solution_1.java`](./problems/3875-construct-uniform-parity-array-i/solution_1.java), [`solution_2.java`](./problems/3875-construct-uniform-parity-array-i/solution_2.java) |
 | 3876 | [Construct Uniform Parity Array II](./problems/3876-construct-uniform-parity-array-ii) | 🟡 Medium | [`solution_1.java`](./problems/3876-construct-uniform-parity-array-ii/solution_1.java), [`solution_2.java`](./problems/3876-construct-uniform-parity-array-ii/solution_2.java), [`solution_3.java`](./problems/3876-construct-uniform-parity-array-ii/solution_3.java) |
+| 3882 | [Minimum XOR Path in a Grid](./problems/3882-minimum-xor-path-in-a-grid) | 🟡 Medium | [`solution_1.java`](./problems/3882-minimum-xor-path-in-a-grid/solution_1.java) |
 | 3886 | [Sum of Sortable Integers](./problems/3886-sum-of-sortable-integers) | 🔴 Hard | [`solution_1.java`](./problems/3886-sum-of-sortable-integers/solution_1.java), [`solution_2.java`](./problems/3886-sum-of-sortable-integers/solution_2.java) |
 | 3903 | [Smallest Stable Index I](./problems/3903-smallest-stable-index-i) | 🟢 Easy | [`solution_1.java`](./problems/3903-smallest-stable-index-i/solution_1.java) |
 | 3904 | [Smallest Stable Index II](./problems/3904-smallest-stable-index-ii) | 🟡 Medium | [`solution_1.java`](./problems/3904-smallest-stable-index-ii/solution_1.java) |
