@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #3882: Minimum XOR Path in a Grid
  * URL: https://leetcode.com/problems/minimum-xor-path-in-a-grid/
- * Solution #1 (java)
+ * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 152 ms
- * Memory: 46.6 MB
- * Submission Date: 2026-10-28 16:11:38 UTC
+ * Runtime: 152
+ * Memory: 46568000
+ * Submission Date: 2026-10-28 16:11:33 UTC
  * Submission ID: 2184060195
  */
 
