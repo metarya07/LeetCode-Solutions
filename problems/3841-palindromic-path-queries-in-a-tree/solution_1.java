@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #3841: Palindromic Path Queries in a Tree
  * URL: https://leetcode.com/problems/palindromic-path-queries-in-a-tree/
- * Solution #1 (java)
+ * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 181 ms
- * Memory: 242.4 MB
- * Submission Date: 2026-10-29 03:13:42 UTC
+ * Runtime: 181
+ * Memory: 242380000
+ * Submission Date: 2026-10-29 03:13:37 UTC
  * Submission ID: 2184377519
  */
 
