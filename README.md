@@ -3,11 +3,11 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-138-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-209-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-139-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-210-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-50-28a745?style=flat-square)]()
-[![Medium](https://img.shields.io/badge/Medium-61-ffc107?style=flat-square)]()
+[![Medium](https://img.shields.io/badge/Medium-62-ffc107?style=flat-square)]()
 [![Hard](https://img.shields.io/badge/Hard-27-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
@@ -144,6 +144,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 3619 | [Count Islands With Total Value Divisible by K](./problems/3619-count-islands-with-total-value-divisible-by-k) | 🟡 Medium | [`solution_1.java`](./problems/3619-count-islands-with-total-value-divisible-by-k/solution_1.java) |
 | 3622 | [Check Divisibility by Digit Sum and Product](./problems/3622-check-divisibility-by-digit-sum-and-product) | 🟢 Easy | [`solution_1.java`](./problems/3622-check-divisibility-by-digit-sum-and-product/solution_1.java) |
 | 3644 | [Maximum K to Sort a Permutation](./problems/3644-maximum-k-to-sort-a-permutation) | 🟡 Medium | [`solution_1.java`](./problems/3644-maximum-k-to-sort-a-permutation/solution_1.java), [`solution_2.java`](./problems/3644-maximum-k-to-sort-a-permutation/solution_2.java) |
+| 3665 | [Twisted Mirror Path Count](./problems/3665-twisted-mirror-path-count) | 🟡 Medium | [`solution_1.java`](./problems/3665-twisted-mirror-path-count/solution_1.java) |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./problems/3702-longest-subsequence-with-non-zero-bitwise-xor) | 🟡 Medium | [`solution_1.java`](./problems/3702-longest-subsequence-with-non-zero-bitwise-xor/solution_1.java) |
 | 3718 | [Smallest Missing Multiple of K](./problems/3718-smallest-missing-multiple-of-k) | 🟢 Easy | [`solution_1.java`](./problems/3718-smallest-missing-multiple-of-k/solution_1.java), [`solution_2.java`](./problems/3718-smallest-missing-multiple-of-k/solution_2.java) |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](./problems/3720-lexicographically-smallest-permutation-greater-than-target) | 🟡 Medium | [`solution_1.java`](./problems/3720-lexicographically-smallest-permutation-greater-than-target/solution_1.java), [`solution_2.java`](./problems/3720-lexicographically-smallest-permutation-greater-than-target/solution_2.java), [`solution_3.java`](./problems/3720-lexicographically-smallest-permutation-greater-than-target/solution_3.java) |
