@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #462: Minimum Moves to Equal Array Elements II
  * URL: https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
- * Solution #2 (java)
+ * Solution #2 (Java)
  * Status: Accepted
- * Runtime: 1 ms
- * Memory: 46.3 MB
- * Submission Date: 2026-11-02 05:31:50 UTC
+ * Runtime: 1
+ * Memory: 46328000
+ * Submission Date: 2026-11-02 05:31:43 UTC
  * Submission ID: 2187488175
  */
 
