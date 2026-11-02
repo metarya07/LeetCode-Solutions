@@ -3,11 +3,11 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-140-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-212-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-141-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-213-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-50-28a745?style=flat-square)]()
-[![Medium](https://img.shields.io/badge/Medium-63-ffc107?style=flat-square)]()
+[![Medium](https://img.shields.io/badge/Medium-64-ffc107?style=flat-square)]()
 [![Hard](https://img.shields.io/badge/Hard-27-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
@@ -60,6 +60,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 301 | [Remove Invalid Parentheses](./problems/0301-remove-invalid-parentheses) | 🔴 Hard | [`solution_1.java`](./problems/0301-remove-invalid-parentheses/solution_1.java), [`solution_2.java`](./problems/0301-remove-invalid-parentheses/solution_2.java) |
 | 448 | [Find All Numbers Disappeared in an Array](./problems/0448-find-all-numbers-disappeared-in-an-array) | 🟢 Easy | [`solution_1.java`](./problems/0448-find-all-numbers-disappeared-in-an-array/solution_1.java) |
 | 453 | [Minimum Moves to Equal Array Elements](./problems/0453-minimum-moves-to-equal-array-elements) | 🟡 Medium | [`solution_1.java`](./problems/0453-minimum-moves-to-equal-array-elements/solution_1.java), [`solution_2.java`](./problems/0453-minimum-moves-to-equal-array-elements/solution_2.java) |
+| 462 | [Minimum Moves to Equal Array Elements II](./problems/0462-minimum-moves-to-equal-array-elements-ii) | 🟡 Medium | [`solution_1.java`](./problems/0462-minimum-moves-to-equal-array-elements-ii/solution_1.java) |
 | 485 | [Max Consecutive Ones](./problems/0485-max-consecutive-ones) | 🟢 Easy | [`solution_1.java`](./problems/0485-max-consecutive-ones/solution_1.java) |
 | 486 | [Predict the Winner](./problems/0486-predict-the-winner) | 🟡 Medium | [`solution_1.java`](./problems/0486-predict-the-winner/solution_1.java) |
 | 560 | [Subarray Sum Equals K](./problems/0560-subarray-sum-equals-k) | 🟡 Medium | [`solution_1.java`](./problems/0560-subarray-sum-equals-k/solution_1.java), [`solution_2.java`](./problems/0560-subarray-sum-equals-k/solution_2.java) |
