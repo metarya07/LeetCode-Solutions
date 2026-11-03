@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #3736: Minimum Moves to Equal Array Elements III
  * URL: https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/
- * Solution #1 (java)
+ * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 2 ms
- * Memory: 45.9 MB
- * Submission Date: 2026-11-03 02:57:24 UTC
+ * Runtime: 2
+ * Memory: 45896000
+ * Submission Date: 2026-11-03 02:57:20 UTC
  * Submission ID: 2188212151
  */
 
