@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #1385: Find the Distance Value Between Two Arrays
  * URL: https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
- * Solution #1 (java)
+ * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 15 ms
- * Memory: 46 MB
- * Submission Date: 2026-11-05 02:45:12 UTC
+ * Runtime: 15
+ * Memory: 46000000
+ * Submission Date: 2026-11-05 02:45:05 UTC
  * Submission ID: 2189748207
  */
 
