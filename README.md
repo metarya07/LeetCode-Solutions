@@ -3,12 +3,12 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-143-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-216-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-144-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-217-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-52-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-64-ffc107?style=flat-square)]()
-[![Hard](https://img.shields.io/badge/Hard-27-dc3545?style=flat-square)]()
+[![Hard](https://img.shields.io/badge/Hard-28-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
 An automated repository synchronizing all my LeetCode submissions with real-time browser push, multi-solution versioning, and authentic historical timestamps.
@@ -137,6 +137,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 3471 | [Find the Largest Almost Missing Integer](./problems/3471-find-the-largest-almost-missing-integer) | 🟢 Easy | [`solution_1.java`](./problems/3471-find-the-largest-almost-missing-integer/solution_1.java) |
 | 3483 | [Unique 3-Digit Even Numbers](./problems/3483-unique-3-digit-even-numbers) | 🟢 Easy | [`solution_1.java`](./problems/3483-unique-3-digit-even-numbers/solution_1.java), [`solution_2.java`](./problems/3483-unique-3-digit-even-numbers/solution_2.java) |
 | 3498 | [Reverse Degree of a String](./problems/3498-reverse-degree-of-a-string) | 🟢 Easy | [`solution_1.java`](./problems/3498-reverse-degree-of-a-string/solution_1.java), [`solution_2.java`](./problems/3498-reverse-degree-of-a-string/solution_2.java) |
+| 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](./problems/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) | 🔴 Hard | [`solution_1.java`](./problems/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/solution_1.java) |
 | 3517 | [Smallest Palindromic Rearrangement I](./problems/3517-smallest-palindromic-rearrangement-i) | 🟡 Medium | [`solution_1.java`](./problems/3517-smallest-palindromic-rearrangement-i/solution_1.java) |
 | 3518 | [Smallest Palindromic Rearrangement II](./problems/3518-smallest-palindromic-rearrangement-ii) | 🔴 Hard | [`solution_1.java`](./problems/3518-smallest-palindromic-rearrangement-ii/solution_1.java) |
 | 3524 | [Find X Value of Array I](./problems/3524-find-x-value-of-array-i) | 🟡 Medium | [`solution_1.java`](./problems/3524-find-x-value-of-array-i/solution_1.java), [`solution_2.java`](./problems/3524-find-x-value-of-array-i/solution_2.java) |
