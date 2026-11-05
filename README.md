@@ -3,10 +3,10 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-142-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-215-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-143-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-216-brightgreen?style=for-the-badge)](./problems)
 
-[![Easy](https://img.shields.io/badge/Easy-51-28a745?style=flat-square)]()
+[![Easy](https://img.shields.io/badge/Easy-52-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-64-ffc107?style=flat-square)]()
 [![Hard](https://img.shields.io/badge/Hard-27-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
@@ -82,6 +82,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./problems/1190-reverse-substrings-between-each-pair-of-parentheses) | 🟡 Medium | [`solution_1.java`](./problems/1190-reverse-substrings-between-each-pair-of-parentheses/solution_1.java), [`solution_2.java`](./problems/1190-reverse-substrings-between-each-pair-of-parentheses/solution_2.java) |
 | 1254 | [Number of Closed Islands](./problems/1254-number-of-closed-islands) | 🟡 Medium | [`solution_1.java`](./problems/1254-number-of-closed-islands/solution_1.java), [`solution_2.java`](./problems/1254-number-of-closed-islands/solution_2.java) |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](./problems/1365-how-many-numbers-are-smaller-than-the-current-number) | 🟢 Easy | [`solution_1.java`](./problems/1365-how-many-numbers-are-smaller-than-the-current-number/solution_1.java), [`solution_2.java`](./problems/1365-how-many-numbers-are-smaller-than-the-current-number/solution_2.java) |
+| 1385 | [Find the Distance Value Between Two Arrays](./problems/1385-find-the-distance-value-between-two-arrays) | 🟢 Easy | [`solution_1.java`](./problems/1385-find-the-distance-value-between-two-arrays/solution_1.java) |
 | 1386 | [Cinema Seat Allocation](./problems/1386-cinema-seat-allocation) | 🟡 Medium | [`solution_1.java`](./problems/1386-cinema-seat-allocation/solution_1.java), [`solution_2.java`](./problems/1386-cinema-seat-allocation/solution_2.java) |
 | 1401 | [Circle and Rectangle Overlapping](./problems/1401-circle-and-rectangle-overlapping) | 🟡 Medium | [`solution_1.java`](./problems/1401-circle-and-rectangle-overlapping/solution_1.java) |
 | 1406 | [Stone Game III](./problems/1406-stone-game-iii) | 🔴 Hard | [`solution_1.java`](./problems/1406-stone-game-iii/solution_1.java) |
