@@ -3,11 +3,11 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-145-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-219-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-146-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-220-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-52-28a745?style=flat-square)]()
-[![Medium](https://img.shields.io/badge/Medium-64-ffc107?style=flat-square)]()
+[![Medium](https://img.shields.io/badge/Medium-65-ffc107?style=flat-square)]()
 [![Hard](https://img.shields.io/badge/Hard-29-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
@@ -158,6 +158,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 3731 | [Find Missing Elements](./problems/3731-find-missing-elements) | 🟢 Easy | [`solution_1.java`](./problems/3731-find-missing-elements/solution_1.java) |
 | 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) | 🔴 Hard | [`solution_1.java`](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution_1.java), [`solution_2.java`](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution_2.java), [`solution_3.java`](./problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution_3.java) |
 | 3736 | [Minimum Moves to Equal Array Elements III](./problems/3736-minimum-moves-to-equal-array-elements-iii) | 🟢 Easy | [`solution_1.java`](./problems/3736-minimum-moves-to-equal-array-elements-iii/solution_1.java) |
+| 3789 | [Minimum Cost to Acquire Required Items](./problems/3789-minimum-cost-to-acquire-required-items) | 🟡 Medium | [`solution_1.java`](./problems/3789-minimum-cost-to-acquire-required-items/solution_1.java) |
 | 3841 | [Palindromic Path Queries in a Tree](./problems/3841-palindromic-path-queries-in-a-tree) | 🔴 Hard | [`solution_1.java`](./problems/3841-palindromic-path-queries-in-a-tree/solution_1.java) |
 | 3863 | [Minimum Operations to Sort a String](./problems/3863-minimum-operations-to-sort-a-string) | 🟡 Medium | [`solution_1.java`](./problems/3863-minimum-operations-to-sort-a-string/solution_1.java), [`solution_2.java`](./problems/3863-minimum-operations-to-sort-a-string/solution_2.java) |
 | 3870 | [Count Commas in Range](./problems/3870-count-commas-in-range) | 🟢 Easy | [`solution_1.java`](./problems/3870-count-commas-in-range/solution_1.java) |
