@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #3789: Minimum Cost to Acquire Required Items
  * URL: https://leetcode.com/problems/minimum-cost-to-acquire-required-items/
- * Solution #1 (java)
+ * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 2 ms
- * Memory: 42.3 MB
- * Submission Date: 2026-11-11 20:25:35 UTC
+ * Runtime: 2
+ * Memory: 42332000
+ * Submission Date: 2026-11-11 20:25:23 UTC
  * Submission ID: 2194165214
  */
 
