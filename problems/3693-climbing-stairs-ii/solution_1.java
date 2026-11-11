@@ -1,12 +1,12 @@
 /*
  * LeetCode Problem #3693: Climbing Stairs II
  * URL: https://leetcode.com/problems/climbing-stairs-ii/
- * Solution #1 (java)
+ * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 3 ms
- * Memory: 110.1 MB
- * Submission Date: 2026-11-11 20:25:50 UTC
- * Submission ID: 2194165323
+ * Runtime: 4
+ * Memory: 109988000
+ * Submission Date: 2026-11-11 20:24:58 UTC
+ * Submission ID: 2194165067
  */
 
 class Solution {
