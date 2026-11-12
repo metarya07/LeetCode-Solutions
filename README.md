@@ -4,7 +4,7 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
 [![Total Solved](https://img.shields.io/badge/Problems%20Solved-148-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-222-brightgreen?style=for-the-badge)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-223-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-53-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-66-ffc107?style=flat-square)]()
@@ -129,7 +129,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 3016 | [Minimum Number of Pushes to Type Word II](./problems/3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 Medium | [`solution_1.java`](./problems/3016-minimum-number-of-pushes-to-type-word-ii/solution_1.java) |
 | 3069 | [Distribute Elements Into Two Arrays I](./problems/3069-distribute-elements-into-two-arrays-i) | 🟢 Easy | [`solution_1.java`](./problems/3069-distribute-elements-into-two-arrays-i/solution_1.java), [`solution_2.java`](./problems/3069-distribute-elements-into-two-arrays-i/solution_2.java) |
 | 3090 | [Maximum Length Substring With Two Occurrences](./problems/3090-maximum-length-substring-with-two-occurrences) | 🟢 Easy | [`solution_1.java`](./problems/3090-maximum-length-substring-with-two-occurrences/solution_1.java) |
-| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./problems/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) | 🟢 Easy | [`solution_1.java`](./problems/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/solution_1.java) |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./problems/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) | 🟢 Easy | [`solution_1.java`](./problems/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/solution_1.java), [`solution_2.java`](./problems/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/solution_2.java) |
 | 3116 | [Kth Smallest Amount With Single Denomination Combination](./problems/3116-kth-smallest-amount-with-single-denomination-combination) | 🔴 Hard | [`solution_1.java`](./problems/3116-kth-smallest-amount-with-single-denomination-combination/solution_1.java), [`solution_2.java`](./problems/3116-kth-smallest-amount-with-single-denomination-combination/solution_2.java) |
 | 3302 | [Find the Lexicographically Smallest Valid Sequence](./problems/3302-find-the-lexicographically-smallest-valid-sequence) | 🟡 Medium | [`solution_1.java`](./problems/3302-find-the-lexicographically-smallest-valid-sequence/solution_1.java) |
 | 3310 | [Remove Methods From Project](./problems/3310-remove-methods-from-project) | 🟡 Medium | [`solution_1.java`](./problems/3310-remove-methods-from-project/solution_1.java) |
