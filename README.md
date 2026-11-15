@@ -3,11 +3,11 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-148-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-223-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-149-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-224-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-53-28a745?style=flat-square)]()
-[![Medium](https://img.shields.io/badge/Medium-66-ffc107?style=flat-square)]()
+[![Medium](https://img.shields.io/badge/Medium-67-ffc107?style=flat-square)]()
 [![Hard](https://img.shields.io/badge/Hard-29-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
@@ -93,6 +93,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](./problems/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) | 🟡 Medium | [`solution_1.java`](./problems/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution_1.java), [`solution_2.java`](./problems/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution_2.java) |
 | 1510 | [Stone Game IV](./problems/1510-stone-game-iv) | 🔴 Hard | [`solution_1.java`](./problems/1510-stone-game-iv/solution_1.java) |
 | 1520 | [Maximum Number of Non-Overlapping Substrings](./problems/1520-maximum-number-of-non-overlapping-substrings) | 🔴 Hard | [`solution_1.java`](./problems/1520-maximum-number-of-non-overlapping-substrings/solution_1.java), [`solution_2.java`](./problems/1520-maximum-number-of-non-overlapping-substrings/solution_2.java) |
+| 1524 | [Number of Sub-arrays With Odd Sum](./problems/1524-number-of-sub-arrays-with-odd-sum) | 🟡 Medium | [`solution_1.java`](./problems/1524-number-of-sub-arrays-with-odd-sum/solution_1.java) |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](./problems/1541-minimum-insertions-to-balance-a-parentheses-string) | 🟡 Medium | [`solution_1.java`](./problems/1541-minimum-insertions-to-balance-a-parentheses-string/solution_1.java), [`solution_2.java`](./problems/1541-minimum-insertions-to-balance-a-parentheses-string/solution_2.java) |
 | 1563 | [Stone Game V](./problems/1563-stone-game-v) | 🔴 Hard | [`solution_1.java`](./problems/1563-stone-game-v/solution_1.java), [`solution_2.java`](./problems/1563-stone-game-v/solution_2.java) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](./problems/1569-number-of-ways-to-reorder-array-to-get-same-bst) | 🔴 Hard | [`solution_1.java`](./problems/1569-number-of-ways-to-reorder-array-to-get-same-bst/solution_1.java), [`solution_2.java`](./problems/1569-number-of-ways-to-reorder-array-to-get-same-bst/solution_2.java) |
