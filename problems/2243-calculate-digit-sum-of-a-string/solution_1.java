@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #2243: Calculate Digit Sum of a String
  * URL: https://leetcode.com/problems/calculate-digit-sum-of-a-string/
- * Solution #1 (java)
+ * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 1 ms
- * Memory: 42.9 MB
- * Submission Date: 2026-11-16 06:03:17 UTC
+ * Runtime: 1
+ * Memory: 42864000
+ * Submission Date: 2026-11-16 06:03:10 UTC
  * Submission ID: 2197083140
  */
 
