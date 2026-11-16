@@ -3,10 +3,10 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-149-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-224-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-150-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-225-brightgreen?style=for-the-badge)](./problems)
 
-[![Easy](https://img.shields.io/badge/Easy-53-28a745?style=flat-square)]()
+[![Easy](https://img.shields.io/badge/Easy-54-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-67-ffc107?style=flat-square)]()
 [![Hard](https://img.shields.io/badge/Hard-29-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
@@ -113,6 +113,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 2089 | [Find Target Indices After Sorting Array](./problems/2089-find-target-indices-after-sorting-array) | 🟢 Easy | [`solution_1.java`](./problems/2089-find-target-indices-after-sorting-array/solution_1.java), [`solution_2.java`](./problems/2089-find-target-indices-after-sorting-array/solution_2.java) |
 | 2091 | [Removing Minimum and Maximum From Array](./problems/2091-removing-minimum-and-maximum-from-array) | 🟡 Medium | [`solution_1.java`](./problems/2091-removing-minimum-and-maximum-from-array/solution_1.java), [`solution_2.java`](./problems/2091-removing-minimum-and-maximum-from-array/solution_2.java) |
 | 2213 | [Longest Substring of One Repeating Character](./problems/2213-longest-substring-of-one-repeating-character) | 🔴 Hard | [`solution_1.java`](./problems/2213-longest-substring-of-one-repeating-character/solution_1.java) |
+| 2243 | [Calculate Digit Sum of a String](./problems/2243-calculate-digit-sum-of-a-string) | 🟢 Easy | [`solution_1.java`](./problems/2243-calculate-digit-sum-of-a-string/solution_1.java) |
 | 2265 | [Count Nodes Equal to Average of Subtree](./problems/2265-count-nodes-equal-to-average-of-subtree) | 🟡 Medium | [`solution_1.java`](./problems/2265-count-nodes-equal-to-average-of-subtree/solution_1.java), [`solution_2.java`](./problems/2265-count-nodes-equal-to-average-of-subtree/solution_2.java) |
 | 2267 | [ Check if There Is a Valid Parentheses String Path](./problems/2267-check-if-there-is-a-valid-parentheses-string-path) | 🔴 Hard | [`solution_1.java`](./problems/2267-check-if-there-is-a-valid-parentheses-string-path/solution_1.java), [`solution_2.java`](./problems/2267-check-if-there-is-a-valid-parentheses-string-path/solution_2.java) |
 | 2333 | [Minimum Sum of Squared Difference](./problems/2333-minimum-sum-of-squared-difference) | 🟡 Medium | [`solution_1.java`](./problems/2333-minimum-sum-of-squared-difference/solution_1.java), [`solution_2.java`](./problems/2333-minimum-sum-of-squared-difference/solution_2.java) |
