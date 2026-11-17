@@ -3,12 +3,12 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-150-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-225-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-151-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-226-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-54-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-67-ffc107?style=flat-square)]()
-[![Hard](https://img.shields.io/badge/Hard-29-dc3545?style=flat-square)]()
+[![Hard](https://img.shields.io/badge/Hard-30-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
 An automated repository synchronizing all my LeetCode submissions with real-time browser push, multi-solution versioning, and authentic historical timestamps.
@@ -122,6 +122,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 2778 | [Sum of Squares of Special Elements ](./problems/2778-sum-of-squares-of-special-elements) | 🟢 Easy | [`solution_1.java`](./problems/2778-sum-of-squares-of-special-elements/solution_1.java) |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](./problems/2897-apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | [`solution_1.java`](./problems/2897-apply-operations-on-array-to-maximize-sum-of-squares/solution_1.java), [`solution_2.java`](./problems/2897-apply-operations-on-array-to-maximize-sum-of-squares/solution_2.java) |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string) | 🟡 Medium | [`solution_1.java`](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string/solution_1.java), [`solution_2.java`](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string/solution_2.java) |
+| 2911 | [Minimum Changes to Make K Semi-palindromes](./problems/2911-minimum-changes-to-make-k-semi-palindromes) | 🔴 Hard | [`solution_1.java`](./problems/2911-minimum-changes-to-make-k-semi-palindromes/solution_1.java) |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](./problems/2913-subarrays-distinct-element-sum-of-squares-i) | 🟢 Easy | [`solution_1.java`](./problems/2913-subarrays-distinct-element-sum-of-squares-i/solution_1.java), [`solution_2.java`](./problems/2913-subarrays-distinct-element-sum-of-squares-i/solution_2.java) |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](./problems/2916-subarrays-distinct-element-sum-of-squares-ii) | 🔴 Hard | [`solution_1.java`](./problems/2916-subarrays-distinct-element-sum-of-squares-ii/solution_1.java), [`solution_2.java`](./problems/2916-subarrays-distinct-element-sum-of-squares-ii/solution_2.java) |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements) | 🟡 Medium | [`solution_1.java`](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements/solution_1.java), [`solution_2.java`](./problems/2948-make-lexicographically-smallest-array-by-swapping-elements/solution_2.java) |
