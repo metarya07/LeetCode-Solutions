@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #2911: Minimum Changes to Make K Semi-palindromes
  * URL: https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/
- * Solution #1 (java)
+ * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 119 ms
- * Memory: 46.8 MB
- * Submission Date: 2026-11-17 09:45:25 UTC
+ * Runtime: 119
+ * Memory: 46788000
+ * Submission Date: 2026-11-17 09:45:17 UTC
  * Submission ID: 2197906482
  */
 
