@@ -3,11 +3,11 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-152-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-227-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-153-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-228-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-54-28a745?style=flat-square)]()
-[![Medium](https://img.shields.io/badge/Medium-68-ffc107?style=flat-square)]()
+[![Medium](https://img.shields.io/badge/Medium-69-ffc107?style=flat-square)]()
 [![Hard](https://img.shields.io/badge/Hard-30-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
@@ -119,6 +119,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 2333 | [Minimum Sum of Squared Difference](./problems/2333-minimum-sum-of-squared-difference) | 🟡 Medium | [`solution_1.java`](./problems/2333-minimum-sum-of-squared-difference/solution_1.java), [`solution_2.java`](./problems/2333-minimum-sum-of-squared-difference/solution_2.java) |
 | 2409 | [Count Days Spent Together](./problems/2409-count-days-spent-together) | 🟢 Easy | [`solution_1.java`](./problems/2409-count-days-spent-together/solution_1.java) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./problems/2472-maximum-number-of-non-overlapping-palindrome-substrings) | 🔴 Hard | [`solution_1.java`](./problems/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution_1.java), [`solution_2.java`](./problems/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution_2.java) |
+| 2567 | [Minimum Score by Changing Two Elements](./problems/2567-minimum-score-by-changing-two-elements) | 🟡 Medium | [`solution_1.java`](./problems/2567-minimum-score-by-changing-two-elements/solution_1.java) |
 | 2778 | [Sum of Squares of Special Elements ](./problems/2778-sum-of-squares-of-special-elements) | 🟢 Easy | [`solution_1.java`](./problems/2778-sum-of-squares-of-special-elements/solution_1.java) |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](./problems/2897-apply-operations-on-array-to-maximize-sum-of-squares) | 🔴 Hard | [`solution_1.java`](./problems/2897-apply-operations-on-array-to-maximize-sum-of-squares/solution_1.java), [`solution_2.java`](./problems/2897-apply-operations-on-array-to-maximize-sum-of-squares/solution_2.java) |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string) | 🟡 Medium | [`solution_1.java`](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string/solution_1.java), [`solution_2.java`](./problems/2904-shortest-and-lexicographically-smallest-beautiful-string/solution_2.java) |
