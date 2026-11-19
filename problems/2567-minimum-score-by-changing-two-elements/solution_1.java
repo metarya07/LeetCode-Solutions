@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #2567: Minimum Score by Changing Two Elements
  * URL: https://leetcode.com/problems/minimum-score-by-changing-two-elements/
- * Solution #1 (java)
+ * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 18 ms
- * Memory: 59.3 MB
- * Submission Date: 2026-11-19 16:11:36 UTC
+ * Runtime: 18
+ * Memory: 59344000
+ * Submission Date: 2026-11-19 16:11:31 UTC
  * Submission ID: 2199457549
  */
 
