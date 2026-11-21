@@ -3,12 +3,12 @@
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
-[![Total Solved](https://img.shields.io/badge/Problems%20Solved-153-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-228-brightgreen?style=for-the-badge)](./problems)
+[![Total Solved](https://img.shields.io/badge/Problems%20Solved-154-blue?style=for-the-badge&logo=codeforces)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-229-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-54-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-69-ffc107?style=flat-square)]()
-[![Hard](https://img.shields.io/badge/Hard-30-dc3545?style=flat-square)]()
+[![Hard](https://img.shields.io/badge/Hard-31-dc3545?style=flat-square)]()
 [![Automated Sync](https://img.shields.io/badge/Instant%20Sync-Active-success?style=flat-square&logo=githubactions&logoColor=white)]()
 
 An automated repository synchronizing all my LeetCode submissions with real-time browser push, multi-solution versioning, and authentic historical timestamps.
@@ -132,6 +132,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./problems/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) | 🟢 Easy | [`solution_1.java`](./problems/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/solution_1.java) |
 | 3014 | [Minimum Number of Pushes to Type Word I](./problems/3014-minimum-number-of-pushes-to-type-word-i) | 🟢 Easy | [`solution_1.java`](./problems/3014-minimum-number-of-pushes-to-type-word-i/solution_1.java) |
 | 3016 | [Minimum Number of Pushes to Type Word II](./problems/3016-minimum-number-of-pushes-to-type-word-ii) | 🟡 Medium | [`solution_1.java`](./problems/3016-minimum-number-of-pushes-to-type-word-ii/solution_1.java) |
+| 3041 | [Maximize Consecutive Elements in an Array After Modification](./problems/3041-maximize-consecutive-elements-in-an-array-after-modification) | 🔴 Hard | [`solution_1.java`](./problems/3041-maximize-consecutive-elements-in-an-array-after-modification/solution_1.java) |
 | 3069 | [Distribute Elements Into Two Arrays I](./problems/3069-distribute-elements-into-two-arrays-i) | 🟢 Easy | [`solution_1.java`](./problems/3069-distribute-elements-into-two-arrays-i/solution_1.java), [`solution_2.java`](./problems/3069-distribute-elements-into-two-arrays-i/solution_2.java) |
 | 3090 | [Maximum Length Substring With Two Occurrences](./problems/3090-maximum-length-substring-with-two-occurrences) | 🟢 Easy | [`solution_1.java`](./problems/3090-maximum-length-substring-with-two-occurrences/solution_1.java) |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./problems/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) | 🟢 Easy | [`solution_1.java`](./problems/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/solution_1.java), [`solution_2.java`](./problems/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/solution_2.java) |
