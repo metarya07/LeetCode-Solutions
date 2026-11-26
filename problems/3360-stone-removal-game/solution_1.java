@@ -3,9 +3,9 @@
  * URL: https://leetcode.com/problems/stone-removal-game/
  * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 0 ms
+ * Runtime: 0
  * Memory: 41492000
- * Submission Date: 2026-11-26 07:36:50 UTC
+ * Submission Date: 2026-11-26 05:31:32 UTC
  * Submission ID: 2203663013
  */
 
