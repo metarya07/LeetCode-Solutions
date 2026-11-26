@@ -228,7 +228,7 @@ class LeetCodeClient:
             }
         }
         """
-        resp = self.request_with_retry("POST", GRAPHQL_URL, json={"query": query, "variables": {"submissionId": int(submissionId)}})
+        resp = self.request_with_retry("POST", GRAPHQL_URL, json={"query": query, "variables": {"submissionId": int(submission_id)}})
         if not resp:
             return None
         try:
