@@ -4,7 +4,7 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
 [![Total Solved](https://img.shields.io/badge/Problems%20Solved-166-blue?style=for-the-badge&logo=codeforces)](./problems)
-[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-248-brightgreen?style=for-the-badge)](./problems)
+[![Total Submissions](https://img.shields.io/badge/Total%20Solutions-249-brightgreen?style=for-the-badge)](./problems)
 
 [![Easy](https://img.shields.io/badge/Easy-58-28a745?style=flat-square)]()
 [![Medium](https://img.shields.io/badge/Medium-75-ffc107?style=flat-square)]()
@@ -189,7 +189,7 @@ An automated repository synchronizing all my LeetCode submissions with real-time
 | 3904 | [Smallest Stable Index II](./problems/3904-smallest-stable-index-ii) | 🟡 Medium | [`solution_1.java`](./problems/3904-smallest-stable-index-ii/solution_1.java) |
 | 3934 | [Smallest Unique Subarray](./problems/3934-smallest-unique-subarray) | 🔴 Hard | [`solution_1.java`](./problems/3934-smallest-unique-subarray/solution_1.java) |
 | 3942 | [Minimum Operations to Sort a Permutation](./problems/3942-minimum-operations-to-sort-a-permutation) | 🟡 Medium | [`solution_1.java`](./problems/3942-minimum-operations-to-sort-a-permutation/solution_1.java), [`solution_2.java`](./problems/3942-minimum-operations-to-sort-a-permutation/solution_2.java), [`solution_3.java`](./problems/3942-minimum-operations-to-sort-a-permutation/solution_3.java), [`solution_4.java`](./problems/3942-minimum-operations-to-sort-a-permutation/solution_4.java) |
-| 3946 | [Maximum Number of Items From Sale I](./problems/3946-maximum-number-of-items-from-sale-i) | 🟡 Medium | [`solution_1.java`](./problems/3946-maximum-number-of-items-from-sale-i/solution_1.java) |
+| 3946 | [Maximum Number of Items From Sale I](./problems/3946-maximum-number-of-items-from-sale-i) | 🟡 Medium | [`solution_1.java`](./problems/3946-maximum-number-of-items-from-sale-i/solution_1.java), [`solution_2.java`](./problems/3946-maximum-number-of-items-from-sale-i/solution_2.java) |
 | 3963 | [Create Grid With Exactly One Path](./problems/3963-create-grid-with-exactly-one-path) | 🟢 Easy | [`solution_1.java`](./problems/3963-create-grid-with-exactly-one-path/solution_1.java), [`solution_2.java`](./problems/3963-create-grid-with-exactly-one-path/solution_2.java) |
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](./problems/3970-shortest-path-with-at-most-k-consecutive-identical-characters) | 🟡 Medium | [`solution_1.java`](./problems/3970-shortest-path-with-at-most-k-consecutive-identical-characters/solution_1.java) |
 | 4014 | [Minimum Total Price After Applying Discounts](./problems/4014-minimum-total-price-after-applying-discounts) | 🟡 Medium | [`solution_1.java`](./problems/4014-minimum-total-price-after-applying-discounts/solution_1.java) |
