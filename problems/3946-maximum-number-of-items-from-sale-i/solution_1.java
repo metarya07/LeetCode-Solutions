@@ -1,11 +1,11 @@
 /*
  * LeetCode Problem #3946: Maximum Number of Items From Sale I
  * URL: https://leetcode.com/problems/maximum-number-of-items-from-sale-i/
- * Solution #1 (java)
+ * Solution #1 (Java)
  * Status: Accepted
- * Runtime: 48 ms
- * Memory: 46.8 MB
- * Submission Date: 2026-11-27 03:45:43 UTC
+ * Runtime: 48
+ * Memory: 46816000
+ * Submission Date: 2026-11-27 03:45:38 UTC
  * Submission ID: 2204285644
  */
 
